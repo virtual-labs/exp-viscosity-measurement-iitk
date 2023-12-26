@@ -2,38 +2,101 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "What is the main objective of the experiment you're about to perform?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "To measure the viscosity of sugar solutions using a viscometer",
+        "b": "To determine the acceleration due to gravity using viscosity measurements",
+        "c": "To compare the refractive indices of various liquids ",
+        "d": "To calculate the volume of different sugar solutions"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
         "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "c": "Explanation 3",
+        "d": "Explanation 4"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Briefly explain how the viscosity coefficient is defined and measured using an Ostwald viscometer?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "It is the force required to lift a unit volume of liquid in a capillary tube.",
+        "b": "It is the ratio of shear stress to shear strain in a liquid.",
+        "c": "It is the tangential force per unit area needed to maintain a unit velocity gradient between layers of a liquid. ",
+        "d": "It is the resistance of a liquid to flow due to its density."
+
+        
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "a": "Explanation 1  ",
         "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "c": "Explanation 3",
+        "d": "Explanation 4"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+
+    },
+    {
+      "question": "How does the comparison method work in this experiment to determine the concentration of an unknown sugar solution?",
+      "answers": {
+        "a": "By comparing the taste of different sugar solutions ",
+        "b": "By comparing the colors of various sugar solutions ",	
+        "c":"By comparing the flow times and densities of sugar solutions with a reference solution" ,
+        "d":"By comparing the pH levels of different sugar solutions"
+          
+       
+        
+      },
+      "explanations": {
+        "a": "Explanation 1  ",
+        "b": "Explanation 2",
+        "c": "Explanation 3",
+        "d": "Explanation 4"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Why should the temperature be kept constant throughout the experiment?",
+      "answers": {
+        "a": "Because viscosity changes with temperature",
+        "b": "Because temperature change affects the calibration of the viscometer ",
+        "c": "Because temperature change affects the humidity of the air, which affects the experiment",
+        "d": "Because the temperature variation might break the viscometer"
+
+        
+      },
+      "explanations": {
+        "a": "Explanation 1  ",
+        "b": "Explanation 2",
+        "c": "Explanation 3",
+        "d": "Explanation 4"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the relation between the viscosity and density of a liquid??",
+      "answers": {
+        "a": "Viscosity and density vary inversely to each other",
+        "b": "Viscosity and density are independent of each other",
+        "c": "Viscosity and density vary proportionally to each other",
+        "d": "Viscosity and density vary exponentially to each other"
+
+        
+      },
+      "explanations": {
+        "a": "Explanation 1  ",
+        "b": "Explanation 2",
+        "c": "Explanation 3",
+        "d": "Explanation 4"
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
     }
+    
+
   ]
 }
