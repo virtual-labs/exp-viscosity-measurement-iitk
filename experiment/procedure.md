@@ -11,13 +11,13 @@
 9)	Clamp.
 
 <b> Procedure in laboratory diagram </b1>
-<img src="images/imag.png"width="250" height="250" alt=""><br>
-<img src="images/imag2.png"width="250" height="250" alt=""><br>
-<img src="images/imag3.png"width="250" height="250" alt=""><br>
-<img src="images/imag4.png"width="250" height="250" alt=""><br>
-<img src="images/imag5.png"width="250" height="250" alt=""><br>
-<img src="images/imag6.png"width="250" height="250" alt=""><br>
-<img src="images/imag7.png"width="250" height="250" alt=""><br>
+<img src="images/imag.png" width="250" height="250" alt=""><br>
+<img src="images/imag2.png" width="250" height="250" alt=""><br>
+<img src="images/imag3.png" width="250" height="250" alt=""><br>
+<img src="images/imag4.png" width="250" height="250" alt=""><br>
+<img src="images/imag5.png" width="250" height="250" alt=""><br>
+<img src="images/imag6.png" width="250" height="250" alt=""><br>
+<img src="images/imag7.png" width="250" height="250" alt=""><br>
 
 | Sl. No| Materials| Weight of empty pycnometer| Weight of pycnometer + water| Weight of pycnometer + sugar solution| Density {(w3-w1)/(w2-w1)}|
 |--------| |-----------| |-----------| |----------| |-------------------------------------| |--------------|  
@@ -40,7 +40,7 @@
 | 7 |              |                  |                  |                 |          |           |             |             |
 
 <h2>Procedure in laboratory<h2>
-<img src="images/imag91.png"width="250" height="250" alt="">
+<img src="images/imag91.png" width="250" height="250" alt="">
 <b>Calculation and determination of the concentration of the unknown solution</b>
 </br>
 <h2>Density Calculation</h2>
