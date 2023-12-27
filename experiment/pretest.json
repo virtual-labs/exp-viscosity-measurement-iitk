@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "What is the main objective of the experiment you're about to perform?",
+      "question": "1. What is the main objective of the experiment you're about to perform?",
       "answers": {
         "a": "To measure the viscosity of sugar solutions using a viscometer",
         "b": "To determine the acceleration due to gravity using viscosity measurements",
@@ -19,7 +19,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "Briefly explain how the viscosity coefficient is defined and measured using an Ostwald viscometer?",
+      "question": "2. Briefly explain how the viscosity coefficient is defined and measured using an Ostwald viscometer?",
       "answers": {
         "a": "It is the force required to lift a unit volume of liquid in a capillary tube.",
         "b": "It is the ratio of shear stress to shear strain in a liquid.",
@@ -39,7 +39,7 @@
 
     },
     {
-      "question": "How does the comparison method work in this experiment to determine the concentration of an unknown sugar solution?",
+      "question": "3. How does the comparison method work in this experiment to determine the concentration of an unknown sugar solution?",
       "answers": {
         "a": "By comparing the taste of different sugar solutions ",
         "b": "By comparing the colors of various sugar solutions ",	
@@ -59,7 +59,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "Why should the temperature be kept constant throughout the experiment?",
+      "question": "4. Why should the temperature be kept constant throughout the experiment?",
       "answers": {
         "a": "Because viscosity changes with temperature",
         "b": "Because temperature change affects the calibration of the viscometer ",
@@ -78,7 +78,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "What is the relation between the viscosity and density of a liquid??",
+      "question": "5. What is the relation between the viscosity and density of a liquid??",
       "answers": {
         "a": "Viscosity and density vary inversely to each other",
         "b": "Viscosity and density are independent of each other",
