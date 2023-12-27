@@ -19,9 +19,12 @@
 <center><img src="images/imag6.png" width="250" height="250" alt=""></center><br>
 <center><img src="images/imag7.png" width="250" height="250" alt=""></center><br><br>
 
-| Sl. No | Materials | Important functions |
-| --------------- | --------------- | :--------------- |
-| Sl. No| Materials| Weight of empty pycnometer| Weight of pycnometer + water| Weight of pycnometer + sugar solution| Density {(w3-w1)/(w2-w1)}|
+SrNo |Materials | Weight of empty pycnometer | Weight of pycnometer + water| Weight of pycnometer + sugar solution | Density {(w3-w1)/(w2-w1)}|
+:--|:--|:--|:--|:--|:--|
+1 | . | . | . | . | .
+2 | . | . | . | . | .
+
+| Sl. No| | | | Weight of pycnometer + sugar solution| Density {(w3-w1)/(w2-w1)}|
 |--------| |-----------| |-----------| |----------| |-------------------------------------| |--------------|  <br>
 |1|
 |             |            |                                               |                    |  
