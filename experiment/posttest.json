@@ -2,12 +2,14 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. If the flow time of a sugar solution is longer than the flow time of water in the viscometer,  what can be inferred about the viscosity of the sugar solution?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "The sugar solution has a higher viscosity than water",
+        "b": "The sugar solution has a lower viscosity than water",
+        "c": "The viscosity of the sugar solution cannot be determined", 
+        "d": "The viscosity of the sugar solution is the same as water "
+        
+       
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -19,20 +21,77 @@
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2. What does the slope of the plot of η (viscosity) against concentration of sucrose indicate",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Density of the unknown solution ",
+        "b": "Acceleration due to gravity ",
+        "c": "Coefficient of viscosity of water ",
+        "d": "Relationship between viscosity and concentration"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "a": "Explanation 1 ",
         "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "c": "Explanation 3",
+        "d": "Explanation 4"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. Why is the Ostwald viscometer suitable for this experiment?",
+      "answers": {
+        "a": "It can handle large volumes of liquid",
+        "b":"It measures the velocity of flowing liquids",
+        "c":"It provides precise measurements of viscosity",
+        "d":"It uses gravity to drive the flow of liquids."
+        
+       
+       
+      },
+      "explanations": {
+        "a": "Explanation 1",
+        "b": "Explanation 2",
+        "c": "Explanation 3",
+        "d": "Explanation 4"
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. Why is it important to measure the density of the sugar solutions accurately in this experiment",
+      "answers": {
+        "a": "Density affects the taste of the solutions.",
+        "b": "Density is used to calculate the coefficient of viscosity",
+        "c": 	"Density affects the color of the solutions. ",
+        "d": 	"Density is used to calculate the volume of the solutions."
+       
+      },
+      "explanations": {
+        "a": "Explanation 1 ",
+        "b": "Explanation 2",
+        "c": "Explanation 3",
+        "d": "Explanation 4"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. How would the results have been affected if the capillary tube used in the Ostwald viscometer had a larger diameter",
+      "answers": {
+        "a":"Viscosity measurements would have been more accurate.", 
+        "b":"Viscosity measurements would have been less accurate." ,
+        "c":"Viscosity measurements would not have been affected.",
+        "d":"Diameter of the capillary tube does not affect viscosity measurements."
+        
+       
+      },
+      "explanations": {
+        "a": "Explanation 1 ",
+        "b": "Explanation 2",
+        "c": "Explanation 3",
+        "d": "Explanation 4"
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]

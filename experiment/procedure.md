@@ -20,8 +20,7 @@
 <img src="images/imag7.png">
 
 | Sl. No| Materials| Weight of empty pycnometer| Weight of pycnometer + water| Weight of pycnometer + sugar solution| Density {(w3-w1)/(w2-w1)}
-|--------| |-----------| |-----------| |----------| |-------------------------------------| |--------------------|
-| 1   |          |             |            |                                               |                    |  
+|--------| |-----------| |-----------| |----------| |-------------------------------------| |--------------------| 1   |          |             |            |                                               |                    |  
 | 2   |          |             |            |                                               |                    |  
 | 3   |          |             |            |                                               |                    |  
 | 4   |          |             |            |                                               |                    |  
@@ -44,8 +43,10 @@
 </br>
 <h2>Density Calculation</h2>
 </br>
-|Sl. No.| Materials(% of sugar soln)| Weight of empty pycnometer(g)(w1)| Weight of pycnometer + water(g)(w2)| Weight of pycnometer+ sugar soln(g)(w3)| Density {(w3-w1)/(w2-w1)}(g/ml)
-|---------| |----------| |-----------| |-----------| |--------------------| |-------------|
+|Sl. No.| Materials(% of sugar soln)| Weight of empty pycnometer(g)(w1)| Weight of pycnometer + water(g)(w2)| Weight of pycnometer+ sugar soln(g)(w3)| Density {(w3-w1)/(w2-w1)}(g/ml)<br>
+|Sl. No.|Materials(% of sugar solution)|Weight of empty pycnometer(g)(w1)|Weight of pycnometer + water (g)(w2)|Weight of pycnometer +sugar solution(g)(w3)|Density{(w3-w1(w2-w1)}(g/ml)|<br>
+
+|---------| ----------| -----------| -----------| --------------------| -------------|
 | 1 |     5	      |    11.7064	    | 21.5076	|    21.7254	      |     1.0222     |
 | 2	|     10 |	11.7064 |  21.5076 |	21.8218	       |1.0320        | 
 | 3	|     20 |  11.7064	 |  21.5076	|    22.2570	    |   1.0764|
