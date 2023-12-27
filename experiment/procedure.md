@@ -10,7 +10,7 @@
 8)	Distilled water.
 9)	Clamp.
 
-<b> Procedure in laboratory diagram </b1><br>
+<b> Procedure in laboratory diagram </b1><br><br><br>
 <center><img src="images/imag.png" width="250" height="250" alt=""></center>center><br>
 <center><img src="images/imag2.png" width="250" height="250" alt=""></center><br>
 <center><img src="images/imag3.png" width="250" height="250" alt=""></center><br>
