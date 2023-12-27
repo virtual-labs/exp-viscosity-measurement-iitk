@@ -10,17 +10,19 @@
 8)	Distilled water.
 9)	Clamp.
 
-<h1> Procedure in laboratory diagram </h1>
-<img src="images/imag.png">
-<img src="images/imag2.png">
-<img src="images/imag3.png">
-<img src="images/imag4.png">
-<img src="images/imag5.png">
-<img src="images/imag6.png">
-<img src="images/imag7.png">
+<b> Procedure in laboratory diagram </b1>
+<img src="images/imag.png"width="250" height="250" alt=""><br>
+<img src="images/imag2.png"width="250" height="250" alt=""><br>
+<img src="images/imag3.png"width="250" height="250" alt=""><br>
+<img src="images/imag4.png"width="250" height="250" alt=""><br>
+<img src="images/imag5.png"width="250" height="250" alt=""><br>
+<img src="images/imag6.png"width="250" height="250" alt=""><br>
+<img src="images/imag7.png"width="250" height="250" alt=""><br>
 
-| Sl. No| Materials| Weight of empty pycnometer| Weight of pycnometer + water| Weight of pycnometer + sugar solution| Density {(w3-w1)/(w2-w1)}
-|--------| |-----------| |-----------| |----------| |-------------------------------------| |--------------------| 1   |          |             |            |                                               |                    |  
+| Sl. No| Materials| Weight of empty pycnometer| Weight of pycnometer + water| Weight of pycnometer + sugar solution| Density {(w3-w1)/(w2-w1)}|
+|--------| |-----------| |-----------| |----------| |-------------------------------------| |--------------|  
+|1|
+|             |            |                                               |                    |  
 | 2   |          |             |            |                                               |                    |  
 | 3   |          |             |            |                                               |                    |  
 | 4   |          |             |            |                                               |                    |  
@@ -38,13 +40,13 @@
 | 7 |              |                  |                  |                 |          |           |             |             |
 
 <h2>Procedure in laboratory<h2>
-<img src="images/imag91.png">
+<img src="images/imag91.png"width="250" height="250" alt="">
 <b>Calculation and determination of the concentration of the unknown solution</b>
 </br>
 <h2>Density Calculation</h2>
 </br>
 |Sl. No.| Materials(% of sugar soln)| Weight of empty pycnometer(g)(w1)| Weight of pycnometer + water(g)(w2)| Weight of pycnometer+ sugar soln(g)(w3)| Density {(w3-w1)/(w2-w1)}(g/ml)<br>
-|Sl. No.|Materials(% of sugar solution)|Weight of empty pycnometer(g)(w1)|Weight of pycnometer + water (g)(w2)|Weight of pycnometer +sugar solution(g)(w3)|Density{(w3-w1(w2-w1)}(g/ml)|<br>
+|Sl. No.|Materials(% of sugar solution)|Weight of empty pycnometer(g)(w1)|Weight of pycnometer + water (g)(w2)|Weight of pycnometer +sugar solution(g)(w3)|Density{w3-w1(w2-w1)}(g/ml)|<br>
 
 |---------| ----------| -----------| -----------| --------------------| -------------|
 | 1 |     5	      |    11.7064	    | 21.5076	|    21.7254	      |     1.0222     |
