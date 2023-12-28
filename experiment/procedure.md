@@ -26,8 +26,6 @@
 </br>
 <b>Density Calculation</b><br>
 |Sl. No.| Materials(% of sugar soln)| Weight of empty pycnometer(g)(w1)| Weight of pycnometer + water(g)(w2)| Weight of pycnometer+ sugar soln(g)(w3)| Density {(w3-w1)/(w2-w1)}(g/ml)<br>
-|Sl. No.|Materials(% of sugar solution)|Weight of empty pycnometer(g)(w1)|Weight of pycnometer + water (g)(w2)|Weight of pycnometer +sugar solution(g)(w3)|Density{w3-w1(w2-w1)}(g/ml)|<br>
-
 |---------| ----------| -----------| -----------| --------------------| -------------|
 | 1 |     5	      |    11.7064	    | 21.5076	|    21.7254	      |     1.0222     |
 | 2	|     10 |	11.7064 |  21.5076 |	21.8218	       |1.0320        | 
@@ -37,8 +35,8 @@
 | 6	| Unknown |	11.7064 |	21.5076	|   22.4111	           | 1.0922  |
 
 <b>Viscosity Calculation</b><br>
-| Sl. No| Materials (% of sugar solution) | Time of flow (sec.)| Average time (sec)| | Viscosity|
-|-------| |-----------| |------------| |-------------||------------| |---------| |--------| |---------| |--------|
+| Sl. No| Materials (% of sugar solution) | Time of flow (sec.)| Average time (sec) | Viscosity<br>
+|-------| ------------------------------- |--------------------| -------------------|-------------|
 |    1	|    5      |   123	    |  123.6667	  |           |
 |		|   	|     124|        |1.0445  |
 |		|  124	|	      |        |       |
