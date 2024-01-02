@@ -1,5 +1,5 @@
 The coefficient of viscosity (η) of a liquid is defined as the tangential force per unit area required maintaining unit velocity gradient between two successive layers of a liquid, which are unit distance apart from each other .The unit of coefficient of viscosity is dyne s cm</sup>2</sup> (poise). The co-efficient of viscosity of liquid can be determined by comparing with a liquid with known coefficient of viscosity using Poiseuille’s equation.<br>
-<img src="images/t1.PNG"><br><br>
+<centre><img src="images/t1.PNG"></centre><br><br>
 <img src="images/img0.jpg" width="250" height="250" alt=""><br>
 
 where V = volume of the liquid following through a capillary tube of length (l) in t second. The radius of the capillary is r cm and P is the driving pressure in dyne cm<sup>-2</sup>. P can be replaced by hρg, where h is the difference in height between the levels of the liquid in the two limbs, g = acceleration due to gravity and ρ is the density of the liquid. Now if the same capillary and the same volume of liquids are used, then for the two liquids the following equation can be deduced.<br>
