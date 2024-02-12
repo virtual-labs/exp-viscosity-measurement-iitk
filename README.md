@@ -10,7 +10,7 @@
 
 To familiarize students with how to measure viscosity using Ostwald viscometer and determine the concentration of an unknown sugar solution by measuring the viscosity by comparison method.
 
-<b>Name of Developer | <b> Prof. Pratik sen 
+<b>Name of Developer | <b> Prof. Pratik Sen 
 :--|:--|
 <b> Institute | <b>  Indian Institute of Technology Kanpur
 <b> Email id|     <b>  psen@iitk.ac.in
@@ -21,4 +21,4 @@ To familiarize students with how to measure viscosity using Ostwald viscometer a
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
 1 | Syed Qayam Raza | Student | Computer Science & Information Technology | BU Jhansi | qayam786110@gmail.com
-2 | . | . | . | . | .
+
