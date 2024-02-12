@@ -1,24 +1,24 @@
 ## Introduction
 
 
-<b>Discipline | <b>Fill your discipline name here
+<b>Discipline | <b> Chemical Enginnering
 :--|:--|
-<b> Lab | <b> Fill your lab name here
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Lab | <b> Basic Chemistry Laboratory-I
+<b> Experiment|     <b> Determination of percentage composition of sugar solution from viscosity measurement
 
 ### About the Experiment 
 
-Fill a brief description of this experiment here
+To familiarize students with how to measure viscosity using Ostwald viscometer and determine the concentration of an unknown sugar solution by measuring the viscosity by comparison method.
 
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+<b>Name of Developer | <b> Prof. Pratik sen 
 :--|:--|
-<b> Institute | <b>  
-<b> Email id|     <b>  
-<b> Department |  
+<b> Institute | <b>  Indian Institute of Technology Kanpur
+<b> Email id|     <b>  psen@iitk.ac.in
+<b> Department |  Department of Chemistry
 
 ### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | . | . | . | . | .
+1 | Syed Qayam Raza | Student | Computer Science & Information Technology | BU Jhansi | qayam786110@gmail.com
 2 | . | . | . | . | .
