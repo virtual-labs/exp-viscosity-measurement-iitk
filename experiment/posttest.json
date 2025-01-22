@@ -2,12 +2,12 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "1. If the flow time of a sugar solution is longer than the flow time of water in the viscometer,  what can be inferred about the viscosity of the sugar solution?",
+      "question": "1. If the flow time of a sugar solution  (denser than water) is longer than the flow time of water in the viscometer,  what can be inferred about the viscosity of the sugar solution?",
       "answers": {
         "a": "The sugar solution has a higher viscosity than water",
         "b": "The sugar solution has a lower viscosity than water",
-        "c": "The viscosity of the sugar solution cannot be determined", 
-        "d": "The viscosity of the sugar solution is the same as water "
+        "c": "The viscosity of the sugar solution is approximately equal to that of water since sugar solution is denser than water but flows slower than water", 
+        "d": "The viscosity of the sugar solution cannot be compared to that of water since sugar solution is more dense than water"
         
        
       },
@@ -21,12 +21,12 @@
       "difficulty": "beginner"
     },
     {
-      "question": "2. What does the slope of the plot of η (viscosity) against concentration of sucrose indicate",
+      "question": "2. What does the graphical relationship between η (viscosity) and concentration of sucrose ?",
       "answers": {
-        "a": "Density of the unknown solution ",
-        "b": "Acceleration due to gravity ",
-        "c": "Coefficient of viscosity of water ",
-        "d": "Relationship between viscosity and concentration"
+        "a": "Linear increasing",
+        "b": "Linear decreasing",
+        "c": "Square root ",
+        "d": "Inverse square root"
       },
       "explanations": {
         "a": "Explanation 1 ",
@@ -38,12 +38,12 @@
       "difficulty": "beginner"
     },
     {
-      "question": "3. Why is the Ostwald viscometer suitable for this experiment?",
+      "question": "3. What is the biggest advantage of using the Ostwald viscometer for this experiment?",
       "answers": {
-        "a": "It can handle large volumes of liquid",
-        "b":"It measures the velocity of flowing liquids",
-        "c":"It provides precise measurements of viscosity",
-        "d":"It uses gravity to drive the flow of liquids."
+        "a":"It provides an easy way to calculate the flow pressure",
+        "b":"It can be used for different liquids",
+        "c":"It works for a range of temperatures",
+        "d":"It is made of glass which does not react with most liquids."
         
        
        
@@ -58,12 +58,12 @@
       "difficulty": "beginner"
     },
     {
-      "question": "4. Why is it important to measure the density of the sugar solutions accurately in this experiment",
+      "question": "4. Why is it important to measure the density of the sugar solutions accurately in this experiment ?",
       "answers": {
-        "a": "Density affects the taste of the solutions.",
-        "b": "Density is used to calculate the coefficient of viscosity",
-        "c": 	"Density affects the color of the solutions. ",
-        "d": 	"Density is used to calculate the volume of the solutions."
+        "a": "Density is used as an additional way to check the solutions.",
+        "b": "Density is used in the calculations of the coefficient of viscosity ",
+        "c": "To ensure that the solutions have the correct concentrations",
+        "d": "Density is used to calculate the volumes of the solutions."
        
       },
       "explanations": {
@@ -76,12 +76,12 @@
       "difficulty": "beginner"
     },
     {
-      "question": "5. How would the results have been affected if the capillary tube used in the Ostwald viscometer had a larger diameter",
+      "question": "5. What is the effect of using a viscometer with a capillary tube having a larger diameter",
       "answers": {
-        "a":"Viscosity measurements would have been more accurate.", 
-        "b":"Viscosity measurements would have been less accurate." ,
-        "c":"Viscosity measurements would not have been affected.",
-        "d":"Diameter of the capillary tube does not affect viscosity measurements."
+        "a":"The flow rate will reduce", 
+        "b":"The flow can become less smooth (laminar)" ,
+        "c":"The flow rate will increase",
+        "d":"The viscosity of the solution will decrease"
         
        
       },
