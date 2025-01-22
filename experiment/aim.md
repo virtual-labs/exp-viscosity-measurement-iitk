@@ -1,1 +1,2 @@
-To familiarize students with how to measure viscosity using Ostwald viscometer and determine the concentration of an unknown sugar solution by measuring the viscosity by comparison method. 
+To familiarize students with measrement of viscosity using Ostwald viscometer and determination ofe the concentration of an unknown sugar solution by viscosity  mearusrement and comparison.
+
