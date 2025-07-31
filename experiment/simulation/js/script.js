@@ -331,15 +331,15 @@ var message=["Make yourself familiar with the insturments by hovering over them,
 "Pour it into empty flask.",
 "Click on pipette to take 40ml of 50% sugar concentrated solution.",
 "Add this sugar solution to the flask containing distilled water.",
-"Great!\nYour 40% sugar concentrated solution is ready.\n\nClick on pipette to take 30ml of distilled water.",
+"Great!\nYour 40% sugar concentrated solution is ready. Now wash the pipette and \n\nClick on pipette to take 30ml of distilled water.",
 "Pour it into empty flask.",
 "Click on pipette to take 20ml of 50% sugar concentrated solution.",
 "Add this sugar solution to the flask containing distilled water.",
-"Great!\nYour 20% sugar concentrated solution is ready.\n\nClick on pipette to take 40ml of distilled water.",
+"Great!\nYour 20% sugar concentrated solution is ready.  Now wash the pipette and \n\nClick on pipette to take 40ml of distilled water.",
 "Pour it into empty flask.",
 "Click on pipette to take 10ml of 50% sugar concentrated solution.",
 "Add this sugar solution to the flask containing distilled water.",
-"Great!\nYour 10% sugar concentrated solution is ready.\n\nClick on pipette to take 45ml of distilled water.",
+"Great!\nYour 10% sugar concentrated solution is ready.  Now wash the pipette and \n\nClick on pipette to take 45ml of distilled water.",
 "Pour it into empty flask.",
 "Click on pipette to take 5ml of 50% sugar concentrated solution.",
 "Add this sugar solution to the flask containing distilled water.",
@@ -357,26 +357,12 @@ var message=["Make yourself familiar with the insturments by hovering over them,
 "Now, put back the water filled pycnometer on the table.",
 "Place the pycnometer filled with sugar solution on the weighing machine and note down the weight of it.",
 "Now, put back the pycnometer filled with sugar solution on the table.",
-"Using a pipette, take sufficient amount of 40% sugar concentrated solution.",
+"Now wash the pipette and, take sufficient amount of 40% sugar concentrated solution.",
 "Pour the solution into empty pycnometer",
 "Put the pipette back in its place",
 "Place the pycnometer filled with sugar solution on the weighing machine and note down the weight of it.",
-"Now, put back the pycnometer filled with sugar solution on the table.",
-"Using a pipette, take sufficient amount of 20% sugar concentrated solution.",
-"Pour the solution into empty pycnometer",
-"Put the pipette back in its place",
-"Place the pycnometer filled with sugar solution on the weighing machine and note down the weight of it.",
-"Now, put back the pycnometer filled with sugar solution on the table.",
-"Using a pipette, take sufficient amount of 10% sugar concentrated solution.",
-"Pour the solution into empty pycnometer",
-"Put the pipette back in its place",
-"Place the pycnometer filled with sugar solution on the weighing machine and note down the weight of it.",
-"Now, put back the pycnometer filled with sugar solution on the table.",
-"Using a pipette, take sufficient amount of 5% sugar concentrated solution.",
-"Pour the solution into empty pycnometer",
-"Put the pipette back in its place",
-"Place the pycnometer filled with sugar solution on the weighing machine and note down the weight of it.",
-"Now, put back the pycnometer filled with sugar solution on the table.",
+"Now, put back the pycnometer filled with sugar solution on the table. And repeat the steps for 20%, 10% and 5% solutions",
+  
 "Using a pipette, take sufficient amount of given unknown sugar concentrated solution.",
 "Pour the solution into empty pycnometer",
 "Put the pipette back in its place",
@@ -384,168 +370,19 @@ var message=["Make yourself familiar with the insturments by hovering over them,
 "Now, put back the pycnometer filled with sugar solution on the table.",
 "Now, click on Next button to move to the next step of the experiment.",
 
+"Using a pippette, take sufficient amount of distilled water.",
+"Pour this solution into the viscometer upto mark C",
+"From the other side of viscometer, suck the sugar solution using the suction knob(red colour) of the viscometer at the end of pipe.",
+"Press the suction knob(red colour) to lift the solution more upwards.",
+"Good! now let the sugar solution fall freely.\n\n Wait for some time till the soultion reaches to Mark B",
+"Click on the Forward button to get the final results.",
+"Note down the time taken to reach the sugar solution from Mark A to Mark B and click on Reset button.\n\n After that, Click on next button.",
+
 "Using a pippette, take sufficient amount of 5% sugar concentrated solution.",
 "Pour this solution into the viscometer upto mark C",
 "From the other side of viscometer, suck the sugar solution using the suction knob(red colour) of the viscometer at the end of pipe.",
 "Press the suction knob(red colour) to lift the solution more upwards.",
-"Again press the suction knob(red colour) to uplift the solution above the Mark A",
-"Good! now press and release the suction knob(red colour) to let the sugar solution fall freely.\n\nBe ready to start the stopwatch as soon as the sugar solution reaches to Mark A",
-"Click on the Start button of the stopwatch.\n\nAlso, press and release the suction knob(red colour) to let the sugar solution fall freely.",
-"Keep pressing and releasing the suction knob at regular intervals.",
-"Click on the Forward button to get the final results.",
-"Note down the time taken to reach the sugar solution from Mark A to Mark B and click on Reset button.\n\n After that, Click on next button.",
-
-"Repeat the steps with 5% sugar concentrated solution twice:\n\nUsing a pippette, take sufficient amount of 5% sugar concentrated solution.",
-"Pour this solution into the viscometer upto mark C",
-"From the other side of viscometer, suck the sugar solution using the suction knob(red colour) of the viscometer at the end of pipe.",
-"Press the suction knob(red colour) to lift the solution more upwards.",
-"Again press the suction knob(red colour) to uplift the solution above the Mark A",
-"Good! now press and release the suction knob(red colour) to let the sugar solution fall freely.\n\nBe ready to start the stopwatch as soon as the sugar solution reaches to Mark A",
-"Click on the Start button of the stopwatch.\n\nAlso, press and release the suction knob(red colour) to let the sugar solution fall freely.",
-"Keep pressing and releasing the suction knob at regular intervals.",
-"Click on the Forward button to get the final results.",
-"Note down the time taken to reach the sugar solution from Mark A to Mark B and click on Reset button.\n\n After that, Click on next button.",
-
-"Repeat the steps with 5% sugar concentrated solution thrice:\n\nUsing a pippette, take sufficient amount of 5% sugar concentrated solution.",
-"Pour this solution into the viscometer upto mark C",
-"From the other side of viscometer, suck the sugar solution using the suction knob(red colour) of the viscometer at the end of pipe.",
-"Press the suction knob(red colour) to lift the solution more upwards.",
-"Again press the suction knob(red colour) to uplift the solution above the Mark A",
-"Good! now press and release the suction knob(red colour) to let the sugar solution fall freely.\n\nBe ready to start the stopwatch as soon as the sugar solution reaches to Mark A",
-"Click on the Start button of the stopwatch.\n\nAlso, press and release the suction knob(red colour) to let the sugar solution fall freely.",
-"Keep pressing and releasing the suction knob at regular intervals.",
-"Click on the Forward button to get the final results.",
-"Note down the time taken to reach the sugar solution from Mark A to Mark B and click on Reset button.\n\n After that, Click on next button.",
-
-"Using a pippette, take sufficient amount of 10% sugar concentrated solution.",
-"Pour this solution into the viscometer upto mark C",
-"From the other side of viscometer, suck the sugar solution using the suction knob(red colour) of the viscometer at the end of pipe.",
-"Press the suction knob(red colour) to lift the solution more upwards.",
-"Again press the suction knob(red colour) to uplift the solution above the Mark A",
-"Good! now press and release the suction knob(red colour) to let the sugar solution fall freely.\n\nBe ready to start the stopwatch as soon as the sugar solution reaches to Mark A",
-"Click on the Start button of the stopwatch.\n\nAlso, press and release the suction knob(red colour) to let the sugar solution fall freely.",
-"Keep pressing and releasing the suction knob at regular intervals.",
-"Click on the Forward button to get the final results.",
-"Note down the time taken to reach the sugar solution from Mark A to Mark B and click on Reset button.\n\n After that, Click on next button.",
-
-"Repeat the steps with 10% sugar concentrated solution twice:\n\nUsing a pippette, take sufficient amount of 10% sugar concentrated solution.",
-"Pour this solution into the viscometer upto mark C",
-"From the other side of viscometer, suck the sugar solution using the suction knob(red colour) of the viscometer at the end of pipe.",
-"Press the suction knob(red colour) to lift the solution more upwards.",
-"Again press the suction knob(red colour) to uplift the solution above the Mark A",
-"Good! now press and release the suction knob(red colour) to let the sugar solution fall freely.\n\nBe ready to start the stopwatch as soon as the sugar solution reaches to Mark A",
-"Click on the Start button of the stopwatch.\n\nAlso, press and release the suction knob(red colour) to let the sugar solution fall freely.",
-"Keep pressing and releasing the suction knob at regular intervals.",
-"Click on the Forward button to get the final results.",
-"Note down the time taken to reach the sugar solution from Mark A to Mark B and click on Reset button.\n\n After that, Click on next button.",
-
-"Repeat the steps with 10% sugar concentrated solution thrice:\n\nUsing a pippette, take sufficient amount of 10% sugar concentrated solution.",
-"Pour this solution into the viscometer upto mark C",
-"From the other side of viscometer, suck the sugar solution using the suction knob(red colour) of the viscometer at the end of pipe.",
-"Press the suction knob(red colour) to lift the solution more upwards.",
-"Again press the suction knob(red colour) to uplift the solution above the Mark A",
-"Good! now press and release the suction knob(red colour) to let the sugar solution fall freely.\n\nBe ready to start the stopwatch as soon as the sugar solution reaches to Mark A",
-"Click on the Start button of the stopwatch.\n\nAlso, press and release the suction knob(red colour) to let the sugar solution fall freely.",
-"Keep pressing and releasing the suction knob at regular intervals.",
-"Click on the Forward button to get the final results.",
-"Note down the time taken to reach the sugar solution from Mark A to Mark B and click on Reset button.\n\n After that, Click on next button.",
-
-"Using a pippette, take sufficient amount of 20% sugar concentrated solution.",
-"Pour this solution into the viscometer upto mark C",
-"From the other side of viscometer, suck the sugar solution using the suction knob(red colour) of the viscometer at the end of pipe.",
-"Press the suction knob(red colour) to lift the solution more upwards.",
-"Again press the suction knob(red colour) to uplift the solution above the Mark A",
-"Good! now press and release the suction knob(red colour) to let the sugar solution fall freely.\n\nBe ready to start the stopwatch as soon as the sugar solution reaches to Mark A",
-"Click on the Start button of the stopwatch.\n\nAlso, press and release the suction knob(red colour) to let the sugar solution fall freely.",
-"Keep pressing and releasing the suction knob at regular intervals.",
-"Click on the Forward button to get the final results.",
-"Note down the time taken to reach the sugar solution from Mark A to Mark B and click on Reset button.\n\n After that, Click on next button.",
-
-"Repeat the steps with 20% sugar concentrated solution twice:\n\nUsing a pippette, take sufficient amount of 20% sugar concentrated solution.",
-"Pour this solution into the viscometer upto mark C",
-"From the other side of viscometer, suck the sugar solution using the suction knob(red colour) of the viscometer at the end of pipe.",
-"Press the suction knob(red colour) to lift the solution more upwards.",
-"Again press the suction knob(red colour) to uplift the solution above the Mark A",
-"Good! now press and release the suction knob(red colour) to let the sugar solution fall freely.\n\nBe ready to start the stopwatch as soon as the sugar solution reaches to Mark A",
-"Click on the Start button of the stopwatch.\n\nAlso, press and release the suction knob(red colour) to let the sugar solution fall freely.",
-"Keep pressing and releasing the suction knob at regular intervals.",
-"Click on the Forward button to get the final results.",
-"Note down the time taken to reach the sugar solution from Mark A to Mark B and click on Reset button.\n\n After that, Click on next button.",
-
-"Repeat the steps with 20% sugar concentrated solution thrice:\n\nUsing a pippette, take sufficient amount of 20% sugar concentrated solution.",
-"Pour this solution into the viscometer upto mark C",
-"From the other side of viscometer, suck the sugar solution using the suction knob(red colour) of the viscometer at the end of pipe.",
-"Press the suction knob(red colour) to lift the solution more upwards.",
-"Again press the suction knob(red colour) to uplift the solution above the Mark A",
-"Good! now press and release the suction knob(red colour) to let the sugar solution fall freely.\n\nBe ready to start the stopwatch as soon as the sugar solution reaches to Mark A",
-"Click on the Start button of the stopwatch.\n\nAlso, press and release the suction knob(red colour) to let the sugar solution fall freely.",
-"Keep pressing and releasing the suction knob at regular intervals.",
-"Click on the Forward button to get the final results.",
-"Note down the time taken to reach the sugar solution from Mark A to Mark B and click on Reset button.\n\n After that, Click on next button.",
-
-"Using a pippette, take sufficient amount of 40% sugar concentrated solution.",
-"Pour this solution into the viscometer upto mark C",
-"From the other side of viscometer, suck the sugar solution using the suction knob(red colour) of the viscometer at the end of pipe.",
-"Press the suction knob(red colour) to lift the solution more upwards.",
-"Again press the suction knob(red colour) to uplift the solution above the Mark A",
-"Good! now press and release the suction knob(red colour) to let the sugar solution fall freely.\n\nBe ready to start the stopwatch as soon as the sugar solution reaches to Mark A",
-"Click on the Start button of the stopwatch.\n\nAlso, press and release the suction knob(red colour) to let the sugar solution fall freely.",
-"Keep pressing and releasing the suction knob at regular intervals.",
-"Click on the Forward button to get the final results.",
-"Note down the time taken to reach the sugar solution from Mark A to Mark B and click on Reset button.\n\n After that, Click on next button.",
-
-"Repeat the steps with 40% sugar concentrated solution twice:\n\nUsing a pippette, take sufficient amount of 40% sugar concentrated solution.",
-"Pour this solution into the viscometer upto mark C",
-"From the other side of viscometer, suck the sugar solution using the suction knob(red colour) of the viscometer at the end of pipe.",
-"Press the suction knob(red colour) to lift the solution more upwards.",
-"Again press the suction knob(red colour) to uplift the solution above the Mark A",
-"Good! now press and release the suction knob(red colour) to let the sugar solution fall freely.\n\nBe ready to start the stopwatch as soon as the sugar solution reaches to Mark A",
-"Click on the Start button of the stopwatch.\n\nAlso, press and release the suction knob(red colour) to let the sugar solution fall freely.",
-"Keep pressing and releasing the suction knob at regular intervals.",
-"Click on the Forward button to get the final results.",
-"Note down the time taken to reach the sugar solution from Mark A to Mark B and click on Reset button.\n\n After that, Click on next button.",
-
-"Repeat the steps with 40% sugar concentrated solution thrice:\n\nUsing a pippette, take sufficient amount of 40% sugar concentrated solution.",
-"Pour this solution into the viscometer upto mark C",
-"From the other side of viscometer, suck the sugar solution using the suction knob(red colour) of the viscometer at the end of pipe.",
-"Press the suction knob(red colour) to lift the solution more upwards.",
-"Again press the suction knob(red colour) to uplift the solution above the Mark A",
-"Good! now press and release the suction knob(red colour) to let the sugar solution fall freely.\n\nBe ready to start the stopwatch as soon as the sugar solution reaches to Mark A",
-"Click on the Start button of the stopwatch.\n\nAlso, press and release the suction knob(red colour) to let the sugar solution fall freely.",
-"Keep pressing and releasing the suction knob at regular intervals.",
-"Click on the Forward button to get the final results.",
-"Note down the time taken to reach the sugar solution from Mark A to Mark B and click on Reset button.\n\n After that, Click on next button.",
-
-"Using a pippette, take sufficient amount of 50% sugar concentrated solution.",
-"Pour this solution into the viscometer upto mark C",
-"From the other side of viscometer, suck the sugar solution using the suction knob(red colour) of the viscometer at the end of pipe.",
-"Press the suction knob(red colour) to lift the solution more upwards.",
-"Again press the suction knob(red colour) to uplift the solution above the Mark A",
-"Good! now press and release the suction knob(red colour) to let the sugar solution fall freely.\n\nBe ready to start the stopwatch as soon as the sugar solution reaches to Mark A",
-"Click on the Start button of the stopwatch.\n\nAlso, press and release the suction knob(red colour) to let the sugar solution fall freely.",
-"Keep pressing and releasing the suction knob at regular intervals.",
-"Click on the Forward button to get the final results.",
-"Note down the time taken to reach the sugar solution from Mark A to Mark B and click on Reset button.\n\n After that, Click on next button.",
-
-"Repeat the steps with 50% sugar concentrated solution twice:\n\nUsing a pippette, take sufficient amount of 50% sugar concentrated solution.",
-"Pour this solution into the viscometer upto mark C",
-"From the other side of viscometer, suck the sugar solution using the suction knob(red colour) of the viscometer at the end of pipe.",
-"Press the suction knob(red colour) to lift the solution more upwards.",
-"Again press the suction knob(red colour) to uplift the solution above the Mark A",
-"Good! now press and release the suction knob(red colour) to let the sugar solution fall freely.\n\nBe ready to start the stopwatch as soon as the sugar solution reaches to Mark A",
-"Click on the Start button of the stopwatch.\n\nAlso, press and release the suction knob(red colour) to let the sugar solution fall freely.",
-"Keep pressing and releasing the suction knob at regular intervals.",
-"Click on the Forward button to get the final results.",
-"Note down the time taken to reach the sugar solution from Mark A to Mark B and click on Reset button.\n\n After that, Click on next button.",
-
-"Repeat the steps with 50% sugar concentrated solution thrice:\n\nUsing a pippette, take sufficient amount of 50% sugar concentrated solution.",
-"Pour this solution into the viscometer upto mark C",
-"From the other side of viscometer, suck the sugar solution using the suction knob(red colour) of the viscometer at the end of pipe.",
-"Press the suction knob(red colour) to lift the solution more upwards.",
-"Again press the suction knob(red colour) to uplift the solution above the Mark A",
-"Good! now press and release the suction knob(red colour) to let the sugar solution fall freely.\n\nBe ready to start the stopwatch as soon as the sugar solution reaches to Mark A",
-"Click on the Start button of the stopwatch.\n\nAlso, press and release the suction knob(red colour) to let the sugar solution fall freely.",
-"Keep pressing and releasing the suction knob at regular intervals.",
+"Good! now press and release the suction knob(red colour) to  let the sugar solution fall freely.\n\n Wait for some time till the soultion reaches to Mark B",
 "Click on the Forward button to get the final results.",
 "Note down the time taken to reach the sugar solution from Mark A to Mark B and click on Reset button.\n\n After that, Click on next button.",
 
@@ -554,31 +391,7 @@ var message=["Make yourself familiar with the insturments by hovering over them,
 "From the other side of viscometer, suck the sugar solution using the suction knob(red colour) of the viscometer at the end of pipe.",
 "Press the suction knob(red colour) to lift the solution more upwards.",
 "Again press the suction knob(red colour) to uplift the solution above the Mark A",
-"Good! now press and release the suction knob(red colour) to let the sugar solution fall freely.\n\nBe ready to start the stopwatch as soon as the sugar solution reaches to Mark A",
-"Click on the Start button of the stopwatch.\n\nAlso, press and release the suction knob(red colour) to let the sugar solution fall freely.",
-"Keep pressing and releasing the suction knob at regular intervals.",
-"Click on the Forward button to get the final results.",
-"Note down the time taken to reach the sugar solution from Mark A to Mark B and click on Reset button.\n\n After that, Click on next button.",
-
-"Repeat the steps with Unknown sugar concentrated solution twice:\n\nUsing a pippette, take sufficient amount of Unknown sugar concentrated solution.",
-"Pour this solution into the viscometer upto mark C",
-"From the other side of viscometer, suck the sugar solution using the suction knob(red colour) of the viscometer at the end of pipe.",
-"Press the suction knob(red colour) to lift the solution more upwards.",
-"Again press the suction knob(red colour) to uplift the solution above the Mark A",
-"Good! now press and release the suction knob(red colour) to let the sugar solution fall freely.\n\nBe ready to start the stopwatch as soon as the sugar solution reaches to Mark A",
-"Click on the Start button of the stopwatch.\n\nAlso, press and release the suction knob(red colour) to let the sugar solution fall freely.",
-"Keep pressing and releasing the suction knob at regular intervals.",
-"Click on the Forward button to get the final results.",
-"Note down the time taken to reach the sugar solution from Mark A to Mark B and click on Reset button.\n\n After that, Click on next button.",
-
-"Repeat the steps with Unknown sugar concentrated solution thrice:\n\nUsing a pippette, take sufficient amount of Unknown sugar concentrated solution.",
-"Pour this solution into the viscometer upto mark C",
-"From the other side of viscometer, suck the sugar solution using the suction knob(red colour) of the viscometer at the end of pipe.",
-"Press the suction knob(red colour) to lift the solution more upwards.",
-"Again press the suction knob(red colour) to uplift the solution above the Mark A",
-"Good! now press and release the suction knob(red colour) to let the sugar solution fall freely.\n\nBe ready to start the stopwatch as soon as the sugar solution reaches to Mark A",
-"Click on the Start button of the stopwatch.\n\nAlso, press and release the suction knob(red colour) to let the sugar solution fall freely.",
-"Keep pressing and releasing the suction knob at regular intervals.",
+"Good! now press and release the suction knob(red colour) to  let the sugar solution fall freely.\n\n Wait for some time till the soultion reaches to Mark B",
 "Click on the Forward button to get the final results.",
 "Note down the time taken to reach the sugar solution from Mark A to Mark B and click on Reset button.\n\n After that, Click on next button.",
 
@@ -587,35 +400,12 @@ var message=["Make yourself familiar with the insturments by hovering over them,
 "From the other side of viscometer, suck the water using the suction knob(red colour) of the viscometer at the end of pipe.",
 "Press the suction knob(red colour) to lift the water more upwards.",
 "Again press the suction knob(red colour) to uplift the water above the Mark A",
-"Good! now press and release the suction knob(red colour) to let the water fall freely.\n\nBe ready to start the stopwatch as soon as water reaches to Mark A",
-"Click on the Start button of the stopwatch.\n\nAlso, press and release the suction knob(red colour) to let the water fall freely.",
-"Keep pressing and releasing the suction knob at regular intervals.",
+"Good! now press and release the suction knob(red colour) to let the sugar solution fall freely.\n\n Wait for some time till the soultion reaches to Mark B",
 "Click on the Forward button to get the final results.",
-"Note down the time taken to reach the water from Mark A to Mark B and click on Reset button.\n\n After that, Click on next button.",
-
-"Repeat the steps with distilled water twice:\n\nUsing a pippette, take sufficient amount of distilled water.",
-"Pour this water into the viscometer upto mark C",
-"From the other side of viscometer, suck the water using the suction knob(red colour) of the viscometer at the end of pipe.",
-"Press the suction knob(red colour) to lift the water more upwards.",
-"Again press the suction knob(red colour) to uplift the water above the Mark A",
-"Good! now press and release the suction knob(red colour) to let the water fall freely.\n\nBe ready to start the stopwatch as soon as water reaches to Mark A",
-"Click on the Start button of the stopwatch.\n\nAlso, press and release the suction knob(red colour) to let the water fall freely.",
-"Keep pressing and releasing the suction knob at regular intervals.",
-"Click on the Forward button to get the final results.",
-"Note down the time taken to reach the water from Mark A to Mark B and click on Reset button.\n\n After that, Click on next button.",
-
-"Repeat the steps with distilled water thrice:\n\nUsing a pippette, take sufficient amount of distilled water.",
-"Pour this water into the viscometer upto mark C",
-"From the other side of viscometer, suck the water using the suction knob(red colour) of the viscometer at the end of pipe.",
-"Press the suction knob(red colour) to lift the water more upwards.",
-"Again press the suction knob(red colour) to uplift the water above the Mark A",
-"Good! now press and release the suction knob(red colour) to let the water fall freely.\n\nBe ready to start the stopwatch as soon as water reaches to Mark A",
-"Click on the Start button of the stopwatch.\n\nAlso, press and release the suction knob(red colour) to let the water fall freely.",
-"Keep pressing and releasing the suction knob at regular intervals.",
-"Click on the Forward button to get the final results.",
-"Note down the time taken to reach the water from Mark A to Mark B and click on Reset button.\n\n After that, Click on next button.",
+"Note down the time taken to reach the sugar solution from Mark A to Mark B and click on Reset button.\n\n After that, Click on next button.",
 
 "Excellent! you have completed all the steps of the experiment.\n\nNow, you may proceed to the calculation part."]
+
 
 
 var lab =document.querySelector("#lab")
@@ -699,7 +489,7 @@ var heflask10=document.querySelector("#heflask1")
 var hwbeaker0=document.querySelector("#hwbeaker")
 var hbottle0=document.querySelector("#hbottle")
 var hpip0=document.querySelector("#hpip")
-
+var distilledflask= document.querySelector("#distilledflask")
 
 
 var f;
@@ -713,7 +503,7 @@ var mes1
 
 function hindi1(){
   lang="hindi"
-  console.log(lang)
+  // console.log(lang)
   langselector.style.opacity="0%"
   //s.innerText="आगे"
   ins.innerText="निर्देश :-"
@@ -726,7 +516,7 @@ function hindi1(){
 
 function eng1(){
   lang="eng"
-  console.log(lang)
+  // console.log(lang)
   langselector.style.opacity="0%"
   setTimeout(function(){
     langselector.style.visibility="hidden"
@@ -762,18 +552,18 @@ function speech1(){
 function update(){
   if(lang=="hindi"){
     mes.innerText=hmessage[messcounter]
-    console.log(hmessage[messcounter])
+    // console.log(hmessage[messcounter])
   }
   else if(lang=="eng"){
     mes.innerText=message[messcounter]
-    console.log(message[messcounter])
+    // console.log(message[messcounter])
   }
   messcounter+=1
     speech1()
 }
 
  function start1(){
-    console.log("hii");
+    // console.log("hii");
     lab.style.visibility="hidden"
     zlab.style.visibility="visible"
     start.style.visibility="hidden"
@@ -791,6 +581,7 @@ function update(){
     hpip0.style.visibility="hidden"
     resize()
     update()
+    
 }
 spat.style.transform="rotate(20deg)";
 fspat.style.transform="rotate(20deg)";
@@ -984,12 +775,14 @@ function pipette(){
     setTimeout(function(){
       pip1.style.transform="translate(300%,-180%) rotate(0deg)";
       next1.style.visibility="visible"
+      distilledflask.style.visibility= "visible"
       update() 
     },8500)
     nb=1;
     f=null;
   }
   if(f==5){
+    // next1.style.visibility= "visible"
     pip1.style.transform="translate(-1350%,-83%) rotate(-90deg)";
     pip40.style.transform="translate(-1350%,-83%) rotate(-90deg)";
     pip30.style.transform="translate(-1350%,-83%) rotate(-90deg)"; 
@@ -1006,6 +799,20 @@ function pipette(){
       pip1.style.visibility="hidden"
       update()
     },2000)
+
+    // ef1.style.visibility= "hidden";
+    // ef2.style.visibility= "hidden";
+    // ef3.style.visibility= "hidden";
+    // ef4.style.visibility= "hidden";
+    // pip10.style.visibility="hidden"
+    // pip1.style.visibility="hidden"
+    // pip40.style.visibility="hidden"
+    // pip30.style.visibility="hidden"
+    // pip20.style.visibility="hidden"
+    // pip20.style.visibility="hidden"
+    // pip45.style.visibility="hidden"
+    // pip45.style.visibility="hidden"
+
     f=6;
   } 
   if(f==7){
@@ -1035,7 +842,28 @@ function pipette(){
   if(f==9){
     pip1.style.top="55%"
     pip40.style.top="55%"
+
     setTimeout(function(){
+      pip1.style.left="58%"
+      pip40.style.left="58%"
+      pip30.style.left="58%"
+      pip20.style.left="58%"
+      pip10.style.left="58%"
+      pip45.style.left="58%"
+      pip5.style.left="58%"
+    },1500)  
+
+    setTimeout(() => {
+       pip1.style.top="78%"
+       pip40.style.top="78%"
+    }, 2500);
+
+    setTimeout(() => {
+      pip1.style.top="55%"
+      pip40.style.top="55%"
+    }, 3300);
+    
+     setTimeout(function(){
       pip1.style.left="70%"
       pip40.style.left="70%"
       pip30.style.left="70%"
@@ -1043,16 +871,16 @@ function pipette(){
       pip10.style.left="70%"
       pip45.style.left="70%"
       pip5.style.left="70%"
-    },1500)
+    },4500)
     setTimeout(function(){
       pip1.style.top="78%"
       pip30.style.top="78%"
-    },2500)
+    },5500)
     setTimeout(function(){
       pip30.style.visibility="visible"
       pip1.style.visibility="hidden"
       update()
-    },3300)
+    },6300)
     f=10;
   }
   if(f==11){
@@ -1081,6 +909,27 @@ function pipette(){
   if(f==13){
     pip1.style.top="55%"
     pip20.style.top="55%"
+
+    setTimeout(function(){
+      pip1.style.left="58%"
+      pip40.style.left="58%"
+      pip30.style.left="58%"
+      pip20.style.left="58%"
+      pip10.style.left="58%"
+      pip45.style.left="58%"
+      pip5.style.left="58%"
+    },1500)  
+
+    setTimeout(() => {
+       pip1.style.top="78%"
+       pip40.style.top="78%"
+    }, 2500);
+
+    setTimeout(() => {
+      pip1.style.top="55%"
+      pip40.style.top="55%"
+    }, 3300);
+
     setTimeout(function(){
       pip1.style.left="70%"
       pip40.style.left="70%"
@@ -1089,16 +938,16 @@ function pipette(){
       pip10.style.left="70%"
       pip45.style.left="70%"
       pip5.style.left="70%"
-    },1500)
+    },4500)
     setTimeout(function(){
       pip1.style.top="78%"
       pip40.style.top="78%"
-    },2500)
+    },5500)
     setTimeout(function(){
       pip40.style.visibility="visible"
       pip1.style.visibility="hidden"
       update()
-    },3300)
+    },6300)
     f=14;
   }
   if(f==15){
@@ -1127,6 +976,25 @@ function pipette(){
   if(f==17){
     pip1.style.top="55%"
     pip10.style.top="55%"
+     setTimeout(function(){
+      pip1.style.left="58%"
+      pip40.style.left="58%"
+      pip30.style.left="58%"
+      pip20.style.left="58%"
+      pip10.style.left="58%"
+      pip45.style.left="58%"
+      pip5.style.left="58%"
+    },1500)  
+
+    setTimeout(() => {
+       pip1.style.top="78%"
+       pip40.style.top="78%"
+    }, 2500);
+
+    setTimeout(() => {
+      pip1.style.top="55%"
+      pip40.style.top="55%"
+    }, 3300);
     setTimeout(function(){
       pip1.style.left="70%"
       pip40.style.left="70%"
@@ -1135,16 +1003,16 @@ function pipette(){
       pip10.style.left="70%"
       pip45.style.left="70%"
       pip5.style.left="70%"
-    },1500)
+    },4500)
     setTimeout(function(){
       pip1.style.top="78%"
       pip45.style.top="78%"
-    },2500)
+    },5500)
     setTimeout(function(){
       pip45.style.visibility="visible"
       pip1.style.visibility="hidden"
       update()
-    },3300)
+    },6300)
     f=18;
   }
   if(f==19){
@@ -1172,13 +1040,16 @@ function pipette(){
   }
 
   if(f==23){
+    pip60.style.top="78%"
+    pip60.style.left="69.9%"   
     pip1.style.transform="translate(-1350%,-83%) rotate(-90deg)";
-    pip60.style.transform="translate(-1350%,-83%) rotate(-90deg)";
+    // pip60.style.transform="translate(-1350%,-83%) rotate(-90deg)";
     setTimeout(function(){
       pip1.style.top="78%"
-      pip60.style.top="78%"
+      // pip60.style.top="78%"
     },1000)
-    setTimeout(function(){
+
+    setTimeout(function(){         
       pip60.style.visibility="visible"
       pip1.style.visibility="hidden"
       obot.style.visibility="visible"
@@ -1228,22 +1099,36 @@ function pipette(){
 
   //solution 40 is being filled here
   if(f==32){
+
     pip1.style.transform="rotate(-90deg)";
     pip1.style.top="20%"
-    pip1.style.left="52.2%"
-    pip60.style.transform="rotate(-90deg)";
-    pip60.style.top="20%"
-    pip60.style.left="52.2%"
-    setTimeout(function(){
+    pip1.style.left="74.8%"
+    // pip60.style.transform="rotate(-90deg)";
+
+     setTimeout(function(){
       pip1.style.top="40%"
-      pip60.style.top="40%"
-    },1000)
+      // pip60.style.top="40%"
+    },1500)
+    
+    setTimeout(() => {
+      pip1.style.left= "51.5%"
+      pip1.style.top= "20%"
+      // pip60.style.top="20%"
+    }, 3000);
+
+    setTimeout(function(){
+      pip60.style.transform="rotate(-90deg)";
+      pip1.style.top="33%"
+      pip60.style.top="33%"
+      pip60.style.left="51.5%"
+    },4000)
+   
     setTimeout(function(){
       pip60.style.visibility="visible"
       pip1.style.visibility="hidden"
       obot.style.visibility="visible"
       update()
-    },2000)
+    },5000)
     f=33;
   }
   if(f==34){
@@ -1374,21 +1259,34 @@ function pipette(){
    if(f==52){
     pip1.style.transform="rotate(-90deg)";
     pip1.style.top="20%"
-    pip1.style.left="52.2%"
-    pip60.style.transform="rotate(-90deg)";
-    pip60.style.top="20%"
-    pip60.style.left="52.2%"
-    setTimeout(function(){
+    pip1.style.left="74.8%"
+    // pip60.style.transform="rotate(-90deg)";
+
+     setTimeout(function(){
       pip1.style.top="40%"
-      pip60.style.top="40%"
-    },1000)
+      // pip60.style.top="40%"
+    },1500)
+    
+    setTimeout(() => {
+      pip1.style.left= "51.5%"
+      pip1.style.top= "20%"
+      // pip60.style.top="20%"
+    }, 3000);
+
+    setTimeout(function(){
+      pip60.style.transform="rotate(-90deg)";
+      pip1.style.top="33%"
+      pip60.style.top="33%"
+      pip60.style.left="51.5%"
+    },4000)
+   
     setTimeout(function(){
       pip60.style.visibility="visible"
       pip1.style.visibility="hidden"
       obot.style.visibility="visible"
       update()
-    },2000)
-    f=53;
+    },5000)
+    f=53
   }
   if(f==54){
     pip1.style.top="20%"
@@ -1870,12 +1768,12 @@ function pipette60(){
     pip60.style.top="20%"
     bot2.style.visibility="hidden"
     setTimeout(function(){
-      pip1.style.left="34.5%"
-      pip60.style.left="34.5%"
+      pip1.style.left="34.2%"
+      pip60.style.left="34.2%"
     },1000)
     setTimeout(function(){
-      pip1.style.top="43%"
-      pip60.style.top="43%"
+      pip1.style.top="35%"
+      pip60.style.top="35%"
     },2000)
     setTimeout(function(){
       pip1.style.visibility="visible"
@@ -1966,12 +1864,12 @@ function pipette60(){
     pip60.style.top="20%"
     bot2.style.visibility="hidden"
     setTimeout(function(){
-      pip1.style.left="34.5%"
-      pip60.style.left="34.5%"
+      pip1.style.left="34.2%"
+      pip60.style.left="34.2%"
     },1000)
     setTimeout(function(){
-      pip1.style.top="43%"
-      pip60.style.top="43%"
+      pip1.style.top="35%"
+      pip60.style.top="35%"
     },2000)
     setTimeout(function(){
       pip1.style.visibility="visible"
@@ -2982,6 +2880,7 @@ function pipette5(){
     setTimeout(function(){
       pip1.style.transform="translate(300%,-350%) rotate(0deg)";
       next1.style.visibility="visible"
+      // distilledflask.style.visibility= "hidden"
       update()
     },5000)
     nb=2;
@@ -3066,16 +2965,17 @@ function fbottle2(){
     fbot2.style.transform="translate(0%,0%)";
     num.style.left="17%"
     num.innerText="0.0 gm"
-    sol20.style.left="50%"
-    sol20.style.top="56%"
+    solunk.style.left="50%"
+    solunk.style.top="56%"
     setTimeout(function(){
       bot2.style.visibility="visible"
       fbot2.style.visibility="hidden"
       sol40.style.visibility="hidden"
-      sol20.style.visibility="visible"
+      // sol20.style.visibility="visible"
+       solunk.style.visibility="visible"
     },1000)
     update()
-    f=37; 
+    f=52; 
   }
   //solution 20 is being weighted here
   if(f==40){
@@ -3169,12 +3069,15 @@ function fbottle2(){
       update()
       f=57;
       next1.style.visibility="visible"
+      distilledflask.style.visibility="hidden"
       nb=3;
     }
 }
 
 
 function suction(){
+  console.log("value of->  " + f );
+  //Viscosity measure using water solution (First time)
   if(f==60){
     viscosuc1.style.visibility="visible"
     viscofill.style.visibility="hidden"
@@ -3182,37 +3085,53 @@ function suction(){
     f=61;
   }
   else if(f==61){
-    viscosuc2.style.visibility="visible"
-    viscosuc1.style.visibility="hidden"
-    update()
-    f=62;
-  }
-  else if(f==62){
     viscosuc3.style.visibility="visible"
-    viscosuc2.style.visibility="hidden"
-    wdrop1.style.visibility="visible"
-    update()
-    f=63;
-  }
-  else if(f==63){
-    wdrop1.style.top="35.5%"
-    update()
-    f=64;
-  }
-  else if(f==64){
-    wdrop2.style.visibility="visible"
-    wdrop2.style.top="37%"
+    viscosuc1.style.visibility="hidden"
     update()
     f=65;
   }
+ 
   else if(f==65){
-    viscofall1.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '17';
+            tens = "00";
+            seconds = "00";
+            suc.style.visibility="hidden"
+            getSeconds.innerHTML = seconds;
+            getTens.innerHTML = tens;
+            viscofall1.style.visibility = "visible";
+            interval = setInterval(startTimer, 10);
+        setTimeout(() => {
+             viscofall2.style.visibility="visible"
+        }, 2500);
+          setTimeout(() => {
+             viscofall3.style.visibility="visible"
+        }, 4500);
+        setTimeout(() => {
+             viscofall4.style.visibility="visible"
+        }, 6500);
+        setTimeout(() => {
+             viscofall5.style.visibility="visible"
+        }, 8500);
+        setTimeout(() => {
+             viscofall6.style.visibility="visible"
+        }, 9500);
+            setTimeout(() => {
+             viscofall7.style.visibility="visible"
+            forward1.style.visibility="visible"
+        }, 10500);
+          setTimeout(() => {
+              tens =   '00';
+             seconds = '120';
+             getSeconds.innerHTML = seconds;
+             getTens.innerHTML = tens;
+             clearInterval(interval)
+               suc.style.visibility="visible"
+              f=73
+        }, 10600);
+   
     getSeconds.innerHTML = seconds;
     getTens.innerHTML = tens;
-    f=66;
+    wc=1;
+    update()
   }
   else if(f==66){
     viscofall2.style.visibility="visible"
@@ -3249,9 +3168,9 @@ function suction(){
     seconds = '85';
     getSeconds.innerHTML = seconds;
     getTens.innerHTML = tens;
-    wc=1;
-    f=70;
-    update()
+    // wc=1;
+    // f=70;
+    // update()
   }
   else if(f==70){
     viscofall6.style.visibility="visible"
@@ -3280,7 +3199,7 @@ function suction(){
     getTens.innerHTML = tens;
     f=73;  
   }
-  //Viscosity measure using 5% sugar concentrated solution (Second time)
+  //Viscosity measure using 5% sugar concentrated solution (First time)
   if(f==77){
     viscosuc1.style.visibility="visible"
     viscofill.style.visibility="hidden"
@@ -3288,10 +3207,10 @@ function suction(){
     f=78;
   }
   else if(f==78){
-    viscosuc2.style.visibility="visible"
+    viscosuc3.style.visibility="visible"
     viscosuc1.style.visibility="hidden"
     update()
-    f=79;
+    f=82;
   }
   else if(f==79){
     viscosuc3.style.visibility="visible"
@@ -3312,13 +3231,47 @@ function suction(){
     f=82;
   }
   else if(f==82){
-    viscofall1.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '17';
+            tens = "00";
+            seconds = "00";
+            suc.style.visibility="hidden"
+            getSeconds.innerHTML = seconds;
+            getTens.innerHTML = tens;
+            viscofall1.style.visibility = "visible";
+            interval = setInterval(startTimer, 10);
+          setTimeout(() => {
+             viscofall2.style.visibility="visible"
+        }, 2500);
+          setTimeout(() => {
+             viscofall3.style.visibility="visible"
+        }, 4500);
+        setTimeout(() => {
+             viscofall4.style.visibility="visible"
+        }, 6500);
+        setTimeout(() => {
+             viscofall5.style.visibility="visible"
+        }, 8500);
+        setTimeout(() => {
+             viscofall6.style.visibility="visible"
+        }, 9500);
+            setTimeout(() => {
+             viscofall7.style.visibility="visible"
+            forward1.style.visibility="visible"
+        }, 10500);
+          setTimeout(() => {
+              tens =   '00';
+             seconds = '123';
+             getSeconds.innerHTML = seconds;
+             getTens.innerHTML = tens;
+             clearInterval(interval)
+               suc.style.visibility="visible"
+              f=345;
+        }, 10600);
+   
     getSeconds.innerHTML = seconds;
     getTens.innerHTML = tens;
-    f=83;
+    wc=2;
+    update()
+
   }
   else if(f==83){
     viscofall2.style.visibility="visible"
@@ -3356,1602 +3309,6 @@ function suction(){
     getSeconds.innerHTML = seconds;
     getTens.innerHTML = tens;
     wc=2;
-    f=87;
-    update()
-  }
-  else if(f==87){
-    viscofall6.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '102';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=88;
-  }
-  else if(f==88){
-    viscofall7.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '115';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=89;
-  }
-  else if(f==89){
-    wdrop3.style.visibility="visible"
-    wdrop3.style.top="43%"
-    tens = '00';
-    seconds = '124';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=90;
-  }
-  //Viscosity measure using 5% sugar concentrated solution (Third time)
-  if(f==94){
-    viscosuc1.style.visibility="visible"
-    viscofill.style.visibility="hidden"
-    update()
-    f=95;
-  }
-  else if(f==95){
-    viscosuc2.style.visibility="visible"
-    viscosuc1.style.visibility="hidden"
-    update()
-    f=96;
-  }
-  else if(f==96){
-    viscosuc3.style.visibility="visible"
-    viscosuc2.style.visibility="hidden"
-    wdrop1.style.visibility="visible"
-    update()
-    f=97;
-  }
-  else if(f==97){
-    wdrop1.style.top="35.5%"
-    update()
-    f=98;
-  }
-  else if(f==98){
-    wdrop2.style.visibility="visible"
-    wdrop2.style.top="37%"
-    update()
-    f=99;
-  }
-  else if(f==99){
-    viscofall1.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '17';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=100;
-  }
-  else if(f==100){
-    viscofall2.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '34';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=101;
-  }
-  else if(f==101){
-    viscofall3.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '51';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=102;
-  }
-  else if(f==102){
-    viscofall4.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '68';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=103;
-  }
-  else if(f==103){
-    viscofall5.style.visibility="visible"
-    forward1.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '85';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    wc=3;
-    f=104;
-    update()
-  }
-  else if(f==104){
-    viscofall6.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '102';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=105;
-  }
-  else if(f==105){
-    viscofall7.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '115';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=106;
-  }
-  else if(f==106){
-    wdrop3.style.visibility="visible"
-    wdrop3.style.top="43%"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '124';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=107;
-  }
-
-  //Viscosity measure using 10% sugar concentrated solution (First time)
-  if(f==111){
-    viscosuc1.style.visibility="visible"
-    viscofill.style.visibility="hidden"
-    update()
-    f=112;
-  }
-  else if(f==112){
-    viscosuc2.style.visibility="visible"
-    viscosuc1.style.visibility="hidden"
-    update()
-    f=113;
-  }
-  else if(f==113){
-    viscosuc3.style.visibility="visible"
-    viscosuc2.style.visibility="hidden"
-    wdrop1.style.visibility="visible"
-    update()
-    f=114;
-  }
-  else if(f==114){
-    wdrop1.style.top="35.5%"
-    update()
-    f=115;
-  }
-  else if(f==115){
-    wdrop2.style.visibility="visible"
-    wdrop2.style.top="37%"
-    update()
-    f=116;
-  }
-  else if(f==116){
-    viscofall1.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '19';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=117;
-  }
-  else if(f==117){
-    viscofall2.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '38';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=118;
-  }
-  else if(f==118){
-    viscofall3.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '57';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=119;
-  }
-  else if(f==119){
-    viscofall4.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '76';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=120;
-  }
-  else if(f==120){
-    viscofall5.style.visibility="visible"
-    forward1.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '95';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    wc=4;
-    f=121;
-    update()
-  }
-  else if(f==121){
-    viscofall6.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '114';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=122;
-  }
-  else if(f==122){
-    viscofall7.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '127';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=123;
-  }
-  else if(f==123){
-    wdrop3.style.visibility="visible"
-    wdrop3.style.top="43%"
-    tens = '00';
-    seconds = '135';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=124;  
-  }
-  //Viscosity measure using 10% sugar concentrated solution (Second time)
-  if(f==128){
-    viscosuc1.style.visibility="visible"
-    viscofill.style.visibility="hidden"
-    update()
-    f=129;
-  }
-  else if(f==129){
-    viscosuc2.style.visibility="visible"
-    viscosuc1.style.visibility="hidden"
-    update()
-    f=130;
-  }
-  else if(f==130){
-    viscosuc3.style.visibility="visible"
-    viscosuc2.style.visibility="hidden"
-    wdrop1.style.visibility="visible"
-    update()
-    f=131;
-  }
-  else if(f==131){
-    wdrop1.style.top="35.5%"
-    update()
-    f=132;
-  }
-  else if(f==132){
-    wdrop2.style.visibility="visible"
-    wdrop2.style.top="37%"
-    update()
-    f=133;
-  }
-  else if(f==133){
-    viscofall1.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '19';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=134;
-  }
-  else if(f==134){
-    viscofall2.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '38';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=135;
-  }
-  else if(f==135){
-    viscofall3.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '57';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=136;
-  }
-  else if(f==136){
-    viscofall4.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '76';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=137;
-  }
-  else if(f==137){
-    viscofall5.style.visibility="visible"
-    forward1.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '95';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    wc=5;
-    f=138;
-    update()
-  }
-  else if(f==138){
-    viscofall6.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '114';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=139;
-  }
-  else if(f==139){
-    viscofall7.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '127';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=140;
-  }
-  else if(f==140){
-    wdrop3.style.visibility="visible"
-    wdrop3.style.top="43%"
-    tens = '00';
-    seconds = '136';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=141;  
-  }
-  //Viscosity measure using 10% sugar concentrated solution (Third time)
-  if(f==145){
-    viscosuc1.style.visibility="visible"
-    viscofill.style.visibility="hidden"
-    update()
-    f=146;
-  }
-  else if(f==146){
-    viscosuc2.style.visibility="visible"
-    viscosuc1.style.visibility="hidden"
-    update()
-    f=147;
-  }
-  else if(f==147){
-    viscosuc3.style.visibility="visible"
-    viscosuc2.style.visibility="hidden"
-    wdrop1.style.visibility="visible"
-    update()
-    f=148;
-  }
-  else if(f==148){
-    wdrop1.style.top="35.5%"
-    update()
-    f=149;
-  }
-  else if(f==149){
-    wdrop2.style.visibility="visible"
-    wdrop2.style.top="37%"
-    update()
-    f=150;
-  }
-  else if(f==150){
-    viscofall1.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '19';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=151;
-  }
-  else if(f==151){
-    viscofall2.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '38';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=152;
-  }
-  else if(f==152){
-    viscofall3.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '57';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=153;
-  }
-  else if(f==153){
-    viscofall4.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '76';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=154;
-  }
-  else if(f==154){
-    viscofall5.style.visibility="visible"
-    forward1.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '95';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    wc=6;
-    f=155;
-    update()
-  }
-  else if(f==155){
-    viscofall6.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '114';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=156;
-  }
-  else if(f==156){
-    viscofall7.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '127';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=157;
-  }
-  else if(f==157){
-    wdrop3.style.visibility="visible"
-    wdrop3.style.top="43%"
-    tens = '00';
-    seconds = '136';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=158;  
-  }
-
-  //Viscosity measure using 20% sugar concentrated solution (First time)
-  if(f==162){
-    viscosuc1.style.visibility="visible"
-    viscofill.style.visibility="hidden"
-    update()
-    f=163;
-  }
-  else if(f==163){
-    viscosuc2.style.visibility="visible"
-    viscosuc1.style.visibility="hidden"
-    update()
-    f=164;
-  }
-  else if(f==164){
-    viscosuc3.style.visibility="visible"
-    viscosuc2.style.visibility="hidden"
-    wdrop1.style.visibility="visible"
-    update()
-    f=165;
-  }
-  else if(f==165){
-    wdrop1.style.top="35.5%"
-    update()
-    f=166;
-  }
-  else if(f==166){
-    wdrop2.style.visibility="visible"
-    wdrop2.style.top="37%"
-    update()
-    f=167;
-  }
-  else if(f==167){
-    viscofall1.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '24';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=168;
-  }
-  else if(f==168){
-    viscofall2.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '48';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=169;
-  }
-  else if(f==169){
-    viscofall3.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '72';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=170;
-  }
-  else if(f==170){
-    viscofall4.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '96';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=171;
-  }
-  else if(f==171){
-    viscofall5.style.visibility="visible"
-    forward1.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '120';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    wc=7;
-    f=172;
-    update()
-  }
-  else if(f==172){
-    viscofall6.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '144';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=173;
-  }
-  else if(f==173){
-    viscofall7.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '162';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=174;
-  }
-  else if(f==174){
-    wdrop3.style.visibility="visible"
-    wdrop3.style.top="43%"
-    tens = '00';
-    seconds = '170';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=175;  
-  }
-  //Viscosity measure using 20% sugar concentrated solution (Second time)
-  if(f==179){
-    viscosuc1.style.visibility="visible"
-    viscofill.style.visibility="hidden"
-    update()
-    f=180;
-  }
-  else if(f==180){
-    viscosuc2.style.visibility="visible"
-    viscosuc1.style.visibility="hidden"
-    update()
-    f=181;
-  }
-  else if(f==181){
-    viscosuc3.style.visibility="visible"
-    viscosuc2.style.visibility="hidden"
-    wdrop1.style.visibility="visible"
-    update()
-    f=182;
-  }
-  else if(f==182){
-    wdrop1.style.top="35.5%"
-    update()
-    f=183;
-  }
-  else if(f==183){
-    wdrop2.style.visibility="visible"
-    wdrop2.style.top="37%"
-    update()
-    f=184;
-  }
-  else if(f==184){
-    viscofall1.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '24';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=185;
-  }
-  else if(f==185){
-    viscofall2.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '48';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=186;
-  }
-  else if(f==186){
-    viscofall3.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '72';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=187;
-  }
-  else if(f==187){
-    viscofall4.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '96';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=188;
-  }
-  else if(f==188){
-    viscofall5.style.visibility="visible"
-    forward1.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '120';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    wc=8;
-    f=189;
-    update()
-  }
-  else if(f==189){
-    viscofall6.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '144';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=190;
-  }
-  else if(f==190){
-    viscofall7.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '162';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=191;
-  }
-  else if(f==191){
-    wdrop3.style.visibility="visible"
-    wdrop3.style.top="43%"
-    tens = '00';
-    seconds = '173';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=192;  
-  }
-  //Viscosity measure using 20% sugar concentrated solution (Third time)
-  if(f==196){
-    viscosuc1.style.visibility="visible"
-    viscofill.style.visibility="hidden"
-    update()
-    f=197;
-  }
-  else if(f==197){
-    viscosuc2.style.visibility="visible"
-    viscosuc1.style.visibility="hidden"
-    update()
-    f=198;
-  }
-  else if(f==198){
-    viscosuc3.style.visibility="visible"
-    viscosuc2.style.visibility="hidden"
-    wdrop1.style.visibility="visible"
-    update()
-    f=199;
-  }
-  else if(f==199){
-    wdrop1.style.top="35.5%"
-    update()
-    f=200;
-  }
-  else if(f==200){
-    wdrop2.style.visibility="visible"
-    wdrop2.style.top="37%"
-    update()
-    f=201;
-  }
-  else if(f==201){
-    viscofall1.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '24';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=202;
-  }
-  else if(f==202){
-    viscofall2.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '48';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=203;
-  }
-  else if(f==203){
-    viscofall3.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '72';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=204;
-  }
-  else if(f==204){
-    viscofall4.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '96';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=205;
-  }
-  else if(f==205){
-    viscofall5.style.visibility="visible"
-    forward1.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '120';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    wc=9;
-    f=206;
-    update()
-  }
-  else if(f==206){
-    viscofall6.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '144';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=207;
-  }
-  else if(f==207){
-    viscofall7.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '162';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=208;
-  }
-  else if(f==208){
-    wdrop3.style.visibility="visible"
-    wdrop3.style.top="43%"
-    tens = '00';
-    seconds = '172';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=209;  
-  }
-
-  //Viscosity measure using 40% sugar concentrated solution (First time)
-  if(f==213){
-    viscosuc1.style.visibility="visible"
-    viscofill.style.visibility="hidden"
-    update()
-    f=214;
-  }
-  else if(f==214){
-    viscosuc2.style.visibility="visible"
-    viscosuc1.style.visibility="hidden"
-    update()
-    f=215;
-  }
-  else if(f==215){
-    viscosuc3.style.visibility="visible"
-    viscosuc2.style.visibility="hidden"
-    wdrop1.style.visibility="visible"
-    update()
-    f=216;
-  }
-  else if(f==216){
-    wdrop1.style.top="35.5%"
-    update()
-    f=217;
-  }
-  else if(f==217){
-    wdrop2.style.visibility="visible"
-    wdrop2.style.top="37%"
-    update()
-    f=218;
-  }
-  else if(f==218){
-    viscofall1.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '36';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=219;
-  }
-  else if(f==219){
-    viscofall2.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '72';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=220;
-  }
-  else if(f==220){
-    viscofall3.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '108';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=221;
-  }
-  else if(f==221){
-    viscofall4.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '144';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=222;
-  }
-  else if(f==222){
-    viscofall5.style.visibility="visible"
-    forward1.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '180';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    wc=10;
-    f=223;
-    update()
-  }
-  else if(f==223){
-    viscofall6.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '216';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=224;
-  }
-  else if(f==224){
-    viscofall7.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '245';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=225;
-  }
-  else if(f==225){
-    wdrop3.style.visibility="visible"
-    wdrop3.style.top="43%"
-    tens = '00';
-    seconds = '254';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=226;  
-  }
-  //Viscosity measure using 40% sugar concentrated solution (Second time)
-  if(f==230){
-    viscosuc1.style.visibility="visible"
-    viscofill.style.visibility="hidden"
-    update()
-    f=231;
-  }
-  else if(f==231){
-    viscosuc2.style.visibility="visible"
-    viscosuc1.style.visibility="hidden"
-    update()
-    f=232;
-  }
-  else if(f==232){
-    viscosuc3.style.visibility="visible"
-    viscosuc2.style.visibility="hidden"
-    wdrop1.style.visibility="visible"
-    update()
-    f=233;
-  }
-  else if(f==233){
-    wdrop1.style.top="35.5%"
-    update()
-    f=234;
-  }
-  else if(f==234){
-    wdrop2.style.visibility="visible"
-    wdrop2.style.top="37%"
-    update()
-    f=235;
-  }
-  else if(f==235){
-    viscofall1.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '36';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=236;
-  }
-  else if(f==236){
-    viscofall2.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '72';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=237;
-  }
-  else if(f==237){
-    viscofall3.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '108';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=238;
-  }
-  else if(f==238){
-    viscofall4.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '144';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=239;
-  }
-  else if(f==239){
-    viscofall5.style.visibility="visible"
-    forward1.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '180';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    wc=11;
-    f=240;
-    update()
-  }
-  else if(f==240){
-    viscofall6.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '216';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=241;
-  }
-  else if(f==241){
-    viscofall7.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '245';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=242;
-  }
-  else if(f==242){
-    wdrop3.style.visibility="visible"
-    wdrop3.style.top="43%"
-    tens = '00';
-    seconds = '255';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=243;  
-  }
-  //Viscosity measure using 40% sugar concentrated solution (Third time)
-  if(f==247){
-    viscosuc1.style.visibility="visible"
-    viscofill.style.visibility="hidden"
-    update()
-    f=248;
-  }
-  else if(f==248){
-    viscosuc2.style.visibility="visible"
-    viscosuc1.style.visibility="hidden"
-    update()
-    f=249;
-  }
-  else if(f==249){
-    viscosuc3.style.visibility="visible"
-    viscosuc2.style.visibility="hidden"
-    wdrop1.style.visibility="visible"
-    update()
-    f=250;
-  }
-  else if(f==250){
-    wdrop1.style.top="35.5%"
-    update()
-    f=251;
-  }
-  else if(f==251){
-    wdrop2.style.visibility="visible"
-    wdrop2.style.top="37%"
-    update()
-    f=252;
-  }
-  else if(f==252){
-    viscofall1.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '36';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=253;
-  }
-  else if(f==253){
-    viscofall2.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '72';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=254;
-  }
-  else if(f==254){
-    viscofall3.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '108';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=255;
-  }
-  else if(f==255){
-    viscofall4.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '144';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=256;
-  }
-  else if(f==256){
-    viscofall5.style.visibility="visible"
-    forward1.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '180';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    wc=12;
-    f=257;
-    update()
-  }
-  else if(f==257){
-    viscofall6.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '216';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=258;
-  }
-  else if(f==258){
-    viscofall7.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '245';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=259;
-  }
-  else if(f==259){
-    wdrop3.style.visibility="visible"
-    wdrop3.style.top="43%"
-    tens = '00';
-    seconds = '255';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=260;  
-  }
-
-  //Viscosity measure using 50% sugar concentrated solution (First time)
-  if(f==264){
-    viscosuc1.style.visibility="visible"
-    viscofill.style.visibility="hidden"
-    update()
-    f=265;
-  }
-  else if(f==265){
-    viscosuc2.style.visibility="visible"
-    viscosuc1.style.visibility="hidden"
-    update()
-    f=266;
-  }
-  else if(f==266){
-    viscosuc3.style.visibility="visible"
-    viscosuc2.style.visibility="hidden"
-    wdrop1.style.visibility="visible"
-    update()
-    f=267;
-  }
-  else if(f==267){
-    wdrop1.style.top="35.5%"
-    update()
-    f=268;
-  }
-  else if(f==268){
-    wdrop2.style.visibility="visible"
-    wdrop2.style.top="37%"
-    update()
-    f=269;
-  }
-  else if(f==269){
-    viscofall1.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '50';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=270;
-  }
-  else if(f==270){
-    viscofall2.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '100';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=271;
-  }
-  else if(f==271){
-    viscofall3.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '150';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=272;
-  }
-  else if(f==272){
-    viscofall4.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '200';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=273;
-  }
-  else if(f==273){
-    viscofall5.style.visibility="visible"
-    forward1.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '250';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    wc=13;
-    f=274;
-    update()
-  }
-  else if(f==274){
-    viscofall6.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '300';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=275;
-  }
-  else if(f==275){
-    viscofall7.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '330';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=276;
-  }
-  else if(f==276){
-    wdrop3.style.visibility="visible"
-    wdrop3.style.top="43%"
-    tens = '00';
-    seconds = '351';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=277;  
-  }
-  //Viscosity measure using 50% sugar concentrated solution (Second time)
-  if(f==281){
-    viscosuc1.style.visibility="visible"
-    viscofill.style.visibility="hidden"
-    update()
-    f=282;
-  }
-  else if(f==282){
-    viscosuc2.style.visibility="visible"
-    viscosuc1.style.visibility="hidden"
-    update()
-    f=283;
-  }
-  else if(f==283){
-    viscosuc3.style.visibility="visible"
-    viscosuc2.style.visibility="hidden"
-    wdrop1.style.visibility="visible"
-    update()
-    f=284;
-  }
-  else if(f==284){
-    wdrop1.style.top="35.5%"
-    update()
-    f=285;
-  }
-  else if(f==285){
-    wdrop2.style.visibility="visible"
-    wdrop2.style.top="37%"
-    update()
-    f=286;
-  }
-  else if(f==286){
-    viscofall1.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '50';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=287;
-  }
-  else if(f==287){
-    viscofall2.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '100';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=288;
-  }
-  else if(f==288){
-    viscofall3.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '150';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=289;
-  }
-  else if(f==289){
-    viscofall4.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '200';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=290;
-  }
-  else if(f==290){
-    viscofall5.style.visibility="visible"
-    forward1.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '250';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    wc=14;
-    f=291;
-    update()
-  }
-  else if(f==291){
-    viscofall6.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '300';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=292;
-  }
-  else if(f==292){
-    viscofall7.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '330';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=293;
-  }
-  else if(f==293){
-    wdrop3.style.visibility="visible"
-    wdrop3.style.top="43%"
-    tens = '00';
-    seconds = '351';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=294;  
-  }
-  //Viscosity measure using 50% sugar concentrated solution (Third time)
-  if(f==298){
-    viscosuc1.style.visibility="visible"
-    viscofill.style.visibility="hidden"
-    update()
-    f=299;
-  }
-  else if(f==299){
-    viscosuc2.style.visibility="visible"
-    viscosuc1.style.visibility="hidden"
-    update()
-    f=300;
-  }
-  else if(f==300){
-    viscosuc3.style.visibility="visible"
-    viscosuc2.style.visibility="hidden"
-    wdrop1.style.visibility="visible"
-    update()
-    f=301;
-  }
-  else if(f==301){
-    wdrop1.style.top="35.5%"
-    update()
-    f=302;
-  }
-  else if(f==302){
-    wdrop2.style.visibility="visible"
-    wdrop2.style.top="37%"
-    update()
-    f=303;
-  }
-  else if(f==303){
-    viscofall1.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '50';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=304;
-  }
-  else if(f==304){
-    viscofall2.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '100';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=305;
-  }
-  else if(f==305){
-    viscofall3.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '150';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=306;
-  }
-  else if(f==306){
-    viscofall4.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '200';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=307;
-  }
-  else if(f==307){
-    viscofall5.style.visibility="visible"
-    forward1.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '250';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    wc=15;
-    f=308;
-    update()
-  }
-  else if(f==308){
-    viscofall6.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '300';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=309;
-  }
-  else if(f==309){
-    viscofall7.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '330';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=310;
-  }
-  else if(f==310){
-    wdrop3.style.visibility="visible"
-    wdrop3.style.top="43%"
-    tens = '00';
-    seconds = '351';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=311;  
-  }
-
-  //Viscosity measure using Unknown sugar concentrated solution (First time)
-  if(f==315){
-    viscosuc1.style.visibility="visible"
-    viscofill.style.visibility="hidden"
-    update()
-    f=316;
-  }
-  else if(f==316){
-    viscosuc2.style.visibility="visible"
-    viscosuc1.style.visibility="hidden"
-    update()
-    f=317;
-  }
-  else if(f==317){
-    viscosuc3.style.visibility="visible"
-    viscosuc2.style.visibility="hidden"
-    wdrop1.style.visibility="visible"
-    update()
-    f=318;
-  }
-  else if(f==318){
-    wdrop1.style.top="35.5%"
-    update()
-    f=319;
-  }
-  else if(f==319){
-    wdrop2.style.visibility="visible"
-    wdrop2.style.top="37%"
-    update()
-    f=320;
-  }
-  else if(f==320){
-    viscofall1.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '27';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=321;
-  }
-  else if(f==321){
-    viscofall2.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '54';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=322;
-  }
-  else if(f==322){
-    viscofall3.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '81';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=323;
-  }
-  else if(f==323){
-    viscofall4.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '108';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=324;
-  }
-  else if(f==324){
-    viscofall5.style.visibility="visible"
-    forward1.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '135';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    wc=16;
-    f=325;
-    update()
-  }
-  else if(f==325){
-    viscofall6.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '162';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=326;
-  }
-  else if(f==326){
-    viscofall7.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '185';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=327;
-  }
-  else if(f==327){
-    wdrop3.style.visibility="visible"
-    wdrop3.style.top="43%"
-    tens = '00';
-    seconds = '194';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=328;  
-  }
-  //Viscosity measure using Unknown sugar concentrated solution (Second time)
-  if(f==332){
-    viscosuc1.style.visibility="visible"
-    viscofill.style.visibility="hidden"
-    update()
-    f=333;
-  }
-  else if(f==333){
-    viscosuc2.style.visibility="visible"
-    viscosuc1.style.visibility="hidden"
-    update()
-    f=334;
-  }
-  else if(f==334){
-    viscosuc3.style.visibility="visible"
-    viscosuc2.style.visibility="hidden"
-    wdrop1.style.visibility="visible"
-    update()
-    f=335;
-  }
-  else if(f==335){
-    wdrop1.style.top="35.5%"
-    update()
-    f=336;
-  }
-  else if(f==336){
-    wdrop2.style.visibility="visible"
-    wdrop2.style.top="37%"
-    update()
-    f=337;
-  }
-  else if(f==337){
-    viscofall1.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '27';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=338;
-  }
-  else if(f==338){
-    viscofall2.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '54';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=339;
-  }
-  else if(f==339){
-    viscofall3.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '81';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=340;
-  }
-  else if(f==340){
-    viscofall4.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '108';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=341;
-  }
-  else if(f==341){
-    viscofall5.style.visibility="visible"
-    forward1.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '135';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    wc=17;
     f=342;
     update()
   }
@@ -4959,7 +3316,7 @@ function suction(){
     viscofall6.style.visibility="visible"
     interval = setInterval(startTimer, 10);
     tens = '00';
-    seconds = '162';
+    seconds = '102';
     getSeconds.innerHTML = seconds;
     getTens.innerHTML = tens;
     f=343;
@@ -4968,7 +3325,7 @@ function suction(){
     viscofall7.style.visibility="visible"
     interval = setInterval(startTimer, 10);
     tens = '00';
-    seconds = '185';
+    seconds = '115';
     getSeconds.innerHTML = seconds;
     getTens.innerHTML = tens;
     f=344;
@@ -4977,11 +3334,45 @@ function suction(){
     wdrop3.style.visibility="visible"
     wdrop3.style.top="43%"
     tens = '00';
-    seconds = '197';
+    seconds = '124';
     getSeconds.innerHTML = seconds;
     getTens.innerHTML = tens;
-    f=345;  
+    f=345;
   }
+  //Viscosity measure using 5% sugar concentrated solution (Third time)
+
+
+  //Viscosity measure using 10% sugar concentrated solution (First time)
+
+  //Viscosity measure using 10% sugar concentrated solution (Second time)
+ 
+  //Viscosity measure using 10% sugar concentrated solution (Third time)
+
+
+  //Viscosity measure using 20% sugar concentrated solution (First time)
+
+  //Viscosity measure using 20% sugar concentrated solution (Second time)
+
+  //Viscosity measure using 20% sugar concentrated solution (Third time)
+
+
+  //Viscosity measure using 40% sugar concentrated solution (First time)
+
+  //Viscosity measure using 40% sugar concentrated solution (Second time)
+ 
+  //Viscosity measure using 40% sugar concentrated solution (Third time)
+
+
+  //Viscosity measure using 50% sugar concentrated solution (First time)
+ 
+  //Viscosity measure using 50% sugar concentrated solution (Second time)
+
+  //Viscosity measure using 50% sugar concentrated solution (Third time)
+
+  //Viscosity measure using Unknown sugar concentrated solution (First time)
+
+  //Viscosity measure using Unknown sugar concentrated solution (Second time)
+
   //Viscosity measure using Unknown sugar concentrated solution (Third time)
   if(f==349){
     viscosuc1.style.visibility="visible"
@@ -4990,10 +3381,10 @@ function suction(){
     f=350;
   }
   else if(f==350){
-    viscosuc2.style.visibility="visible"
+    viscosuc3.style.visibility="visible"
     viscosuc1.style.visibility="hidden"
     update()
-    f=351;
+    f=354;
   }
   else if(f==351){
     viscosuc3.style.visibility="visible"
@@ -5013,14 +3404,47 @@ function suction(){
     update()
     f=354;
   }
-  else if(f==354){
-    viscofall1.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '27';
+  else if(f==354){       
+            tens = "00";
+            seconds = "00";
+            suc.style.visibility="hidden"
+            getSeconds.innerHTML = seconds;
+            getTens.innerHTML = tens;
+            viscofall1.style.visibility = "visible";
+            interval = setInterval(startTimer, 10);
+          setTimeout(() => {
+             viscofall2.style.visibility="visible"
+        }, 2500);
+          setTimeout(() => {
+             viscofall3.style.visibility="visible"
+        }, 4500);
+        setTimeout(() => {
+             viscofall4.style.visibility="visible"
+        }, 6500);
+        setTimeout(() => {
+             viscofall5.style.visibility="visible"
+        }, 8500);
+        setTimeout(() => {
+             viscofall6.style.visibility="visible"
+        }, 9500);
+            setTimeout(() => {
+             viscofall7.style.visibility="visible"
+            forward1.style.visibility="visible"
+        }, 10500);
+          setTimeout(() => {
+              tens =   '00';
+             seconds = '194';
+             getSeconds.innerHTML = seconds;
+             getTens.innerHTML = tens;
+             clearInterval(interval)
+             suc.style.visibility="visible"
+              f=413;
+        }, 10600);
+   
     getSeconds.innerHTML = seconds;
     getTens.innerHTML = tens;
-    f=355;
+    wc=18;
+    update()
   }
   else if(f==355){
     viscofall2.style.visibility="visible"
@@ -5058,249 +3482,41 @@ function suction(){
     getSeconds.innerHTML = seconds;
     getTens.innerHTML = tens;
     wc=18;
-    f=359;
+    f=410;
     update()
   }
-  else if(f==359){
+  else if(f==410){
     viscofall6.style.visibility="visible"
     interval = setInterval(startTimer, 10);
     tens = '00';
     seconds = '162';
     getSeconds.innerHTML = seconds;
     getTens.innerHTML = tens;
-    f=360;
+    f=411;
   }
-  else if(f==360){
+  else if(f==411){
     viscofall7.style.visibility="visible"
     interval = setInterval(startTimer, 10);
     tens = '00';
     seconds = '185';
     getSeconds.innerHTML = seconds;
     getTens.innerHTML = tens;
-    f=361;
+    f=412;
   }
-  else if(f==361){
+  else if(f==412){
     wdrop3.style.visibility="visible"
     wdrop3.style.top="43%"
     tens = '00';
     seconds = '196';
     getSeconds.innerHTML = seconds;
     getTens.innerHTML = tens;
-    f=362;  
+    f=413;  
   }
 
   //Viscosity measure using water (First time)
-  if(f==366){
-    viscosuc1.style.visibility="visible"
-    viscofill.style.visibility="hidden"
-    update()
-    f=367;
-  }
-  else if(f==367){
-    viscosuc2.style.visibility="visible"
-    viscosuc1.style.visibility="hidden"
-    update()
-    f=368;
-  }
-  else if(f==368){
-    viscosuc3.style.visibility="visible"
-    viscosuc2.style.visibility="hidden"
-    wdrop1.style.visibility="visible"
-    update()
-    f=369;
-  }
-  else if(f==369){
-    wdrop1.style.top="35.5%"
-    update()
-    f=370;
-  }
-  else if(f==370){
-    wdrop2.style.visibility="visible"
-    wdrop2.style.top="37%"
-    update()
-    f=371;
-  }
-  else if(f==371){
-    viscofall1.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '17';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=372;
-  }
-  else if(f==372){
-    viscofall2.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '34';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=373;
-  }
-  else if(f==373){
-    viscofall3.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '51';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=374;
-  }
-  else if(f==374){
-    viscofall4.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '68';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=375;
-  }
-  else if(f==375){
-    viscofall5.style.visibility="visible"
-    forward1.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '85';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    wc=19;
-    f=376;
-    update()
-  }
-  else if(f==376){
-    viscofall6.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '102';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=377;
-  }
-  else if(f==377){
-    viscofall7.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '115';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=378;
-  }
-  else if(f==378){
-    wdrop3.style.visibility="visible"
-    wdrop3.style.top="43%"
-    tens = '00';
-    seconds = '120';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=379;  
-  }
+
   //Viscosity measure using water (Second time)
-  if(f==383){
-    viscosuc1.style.visibility="visible"
-    viscofill.style.visibility="hidden"
-    update()
-    f=384;
-  }
-  else if(f==384){
-    viscosuc2.style.visibility="visible"
-    viscosuc1.style.visibility="hidden"
-    update()
-    f=385;
-  }
-  else if(f==385){
-    viscosuc3.style.visibility="visible"
-    viscosuc2.style.visibility="hidden"
-    wdrop1.style.visibility="visible"
-    update()
-    f=386;
-  }
-  else if(f==386){
-    wdrop1.style.top="35.5%"
-    update()
-    f=387;
-  }
-  else if(f==387){
-    wdrop2.style.visibility="visible"
-    wdrop2.style.top="37%"
-    update()
-    f=388;
-  }
-  else if(f==388){
-    viscofall1.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '17';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=389;
-  }
-  else if(f==389){
-    viscofall2.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '34';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=390;
-  }
-  else if(f==390){
-    viscofall3.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '51';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=391;
-  }
-  else if(f==391){
-    viscofall4.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '68';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=392;
-  }
-  else if(f==392){
-    viscofall5.style.visibility="visible"
-    forward1.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '85';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    wc=20;
-    f=393;
-    update()
-  }
-  else if(f==393){
-    viscofall6.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '102';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=394;
-  }
-  else if(f==394){
-    viscofall7.style.visibility="visible"
-    interval = setInterval(startTimer, 10);
-    tens = '00';
-    seconds = '115';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=395;
-  }
-  else if(f==395){
-    wdrop3.style.visibility="visible"
-    wdrop3.style.top="43%"
-    tens = '00';
-    seconds = '121';
-    getSeconds.innerHTML = seconds;
-    getTens.innerHTML = tens;
-    f=396;  
-  }
+
   //Viscosity measure using water (Third time)
   if(f==400){
     viscosuc1.style.visibility="visible"
@@ -5496,7 +3712,7 @@ function next(){
     visco.style.height="60%"
     visco.style.top="23%"
     visco.style.left="13%"
-    sol5.style.visibility="visible"
+    sol5.style.visibility="hidden"
     sol5.style.top="56%"
     sol5.style.left="46%"
     sol10.style.visibility="hidden"
@@ -5514,7 +3730,7 @@ function next(){
     solunk.style.visibility="hidden"
     solunk.style.top="56%"
     solunk.style.left="46%"
-    wbeak.style.visibility="hidden"
+    wbeak.style.visibility="visible"
     wbeak.style.top="63%"
     wbeak.style.left="46%"
     pip1.style.top="67%"
@@ -5532,6 +3748,7 @@ function next(){
   if(nb==4){
     next1.style.visibility="hidden"
     wbeak.style.visibility="hidden"
+    wbeak.style.transition="none"
     visco.style.visibility="visible"
     suc.style.visibility="visible"
     visco.style.height="60%"
@@ -5578,9 +3795,6 @@ function next(){
     solunk.style.visibility="hidden"
     solunk.style.top="56%"
     solunk.style.left="46%"
-    wbeak.style.visibility="hidden"
-    wbeak.style.top="63%"
-    wbeak.style.left="46%"
     pip1.style.top="67%"
     pip1.style.left="70%"
     pip60.style.top="67%"
@@ -6915,7 +5129,7 @@ function forward(){
     wdropAlt.style.visibility="visible"
     clearInterval(interval);
     tens = '00';
-    seconds = '123';
+    seconds = '120';
     getSeconds.innerHTML = seconds;
     getTens.innerHTML = tens;
     next1.style.visibility="visible"
@@ -6931,15 +5145,15 @@ function forward(){
     wdropAlt.style.visibility="visible"
     clearInterval(interval);
     tens = '00';
-    seconds = '124';
+    seconds = '123';
     getSeconds.innerHTML = seconds;
     getTens.innerHTML = tens;
     next1.style.visibility="visible"
     forward1.style.visibility="hidden"
     update()
     wc=null;
-    nb=5;
-    f=91;  
+    nb=20;
+    f=346;  
   }
   //Viscosity measure using 5% sugar concentrated solution (Third time)
   if(wc==3){
@@ -7193,15 +5407,15 @@ function forward(){
     wdropAlt.style.visibility="visible"
     clearInterval(interval);
     tens = '00';
-    seconds = '196';
+    seconds = '194';
     getSeconds.innerHTML = seconds;
     getTens.innerHTML = tens;
     next1.style.visibility="visible"
     forward1.style.visibility="hidden"
     update()
     wc=null;
-    nb=21;
-    f=363;
+    nb=24;
+    f=414;
   }
 
   //Viscosity measure using water (First time)
