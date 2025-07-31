@@ -869,6 +869,13 @@ transition-duration: 1s;
     margin-bottom: 120px;
     left: 35%;
 }
+#distilledflask{
+    position: absolute;
+    top: 60%;
+    left: 70%;
+    height: 23%;
+    visibility: hidden;
+}
 .wrapper p::before{
     content: '';
     position: absolute;
