@@ -4,7 +4,7 @@
     {
       "question": "What is an Ostwald viscometer",
       "answers": {
-        "a": "a U-shaped glass tube with markings on two bulbs",
+        "a": "A U-shaped glass tube with markings on two bulbs",
         "b": "A vertical glass tube with gradations and a dense sphere that can fall in the the tube.",
         "c": "A vertical glass tube with gradations and a pressure controlled pump",
         "d": "A pressure contolled pump connected to a horizontal glass tube."
@@ -36,7 +36,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "The Ostwald viscometer is used t to determine the concentration of an unknown sugar solution by comparing the ____________ of the unknown sugar solution with that of a known sugar solution",
+      "question": "The Ostwald viscometer is used to determine the concentration of an unknown sugar solution by comparing the ____________ of the unknown sugar solution with that of a known sugar solution",
       "answers": {
         "a": "weight",
         "b": "volume",
@@ -75,7 +75,7 @@
         "a": "Viscosity is inversely proportional to the density",
         "b": "Viscosity and density are independent of each other",
         "c": "Viscosity is directly proportional to the density ",
-        "d": " Viscosity is proportional to the square root of the density"
+        "d": "Viscosity is proportional to the square root of the density"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
