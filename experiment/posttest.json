@@ -11,12 +11,7 @@
         
        
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
@@ -28,12 +23,7 @@
         "c": "Square root ",
         "d": "Inverse square root"
       },
-      "explanations": {
-        "a": "Explanation 1 ",
-        "b": "Explanation 2",
-        "c": "Explanation 3",
-        "d": "Explanation 4"
-      },
+
       "correctAnswer": "d",
       "difficulty": "beginner"
     },
@@ -48,12 +38,7 @@
        
        
       },
-      "explanations": {
-        "a": "Explanation 1",
-        "b": "Explanation 2",
-        "c": "Explanation 3",
-        "d": "Explanation 4"
-      },
+      
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
@@ -66,12 +51,7 @@
         "d": "Density is used to calculate the volumes of the solutions."
        
       },
-      "explanations": {
-        "a": "Explanation 1 ",
-        "b": "Explanation 2",
-        "c": "Explanation 3",
-        "d": "Explanation 4"
-      },
+      
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
@@ -85,12 +65,7 @@
         
        
       },
-      "explanations": {
-        "a": "Explanation 1 ",
-        "b": "Explanation 2",
-        "c": "Explanation 3",
-        "d": "Explanation 4"
-      },
+
       "correctAnswer": "b",
       "difficulty": "beginner"
     }
