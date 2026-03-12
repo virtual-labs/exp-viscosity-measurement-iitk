@@ -9,12 +9,6 @@
         "c": "A vertical glass tube with gradations and a pressure controlled pump",
         "d": "A pressure contolled pump connected to a horizontal glass tube."
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 3",
-        "d": "Explanation 4"
-      },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
@@ -25,12 +19,6 @@
         "b": "the ratio of shear stress to shear strain in a liquid.",
         "c": "the tangential force per unit area needed to maintain a unit velocity gradient between layers of a liquid.",
         "d": "the resistance of a liquid to flow due to its density"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 3",
-        "d": "Explanation 4"
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -43,12 +31,6 @@
         "c": "flow time and density",
         "d": "pH"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 3",
-        "d": "Explanation 4"
-      },
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
@@ -60,29 +42,19 @@
         "c": "Using the temperature and volume of the liquid ",
         "d": "By measuring the time taken for the liquid to flow"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 3",
-        "d": "Explanation 4"
-      },
+
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "For a U-tube viscometer, wWhat is the relation between the viscosity and the density of a liquid?",
+      "question": "For a U-tube viscometer, What is the relation between the viscosity and the density of a liquid?",
       "answers": {
         "a": "Viscosity is inversely proportional to the density",
         "b": "Viscosity and density are independent of each other",
         "c": "Viscosity is directly proportional to the density ",
         "d": "Viscosity is proportional to the square root of the density"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 3",
-        "d": "Explanation 4"
-      },
+
       "correctAnswer": "b",
       "difficulty": "beginner"
     }
