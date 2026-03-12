@@ -18,8 +18,8 @@
 <img src="images/imag5.png"><br>
 <img src="images/imag6.png"><br>
 <img src="images/imag7.png"><br>
-<img src="images/p11.PNG"><br>
-<img src="p1.PNG"><br>
+<!--<img src="images/p11.PNG"><br>
+<img src="p1.PNG"><br>-->
 <b>Procedure in laboratory</b><br><br>
 <img src="images/imag91.png"><br>
 
